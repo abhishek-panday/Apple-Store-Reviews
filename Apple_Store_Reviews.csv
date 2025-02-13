@@ -1,0 +1,1001 @@
+Review_ID,App_Name,User_Age,Review_Date,Rating,Review_Text,Likes,Device_Type,Version_Used,Country,Purchase_Amount,Category
+1,Candy Crush Saga,21,2023-01-16,4,"Great game, but too many in-game purchases.",70,iPhone 12,3.231.19,Australia,0.0,Games
+2,Spotify,57,2024-02-01,1,"Good, but has connection issues sometimes.",49,iPhone SE,4.102.9,Germany,7.15,Music
+3,TikTok,33,2023-11-30,5,Awesome app! Best entertainment content.,98,iPhone 12,7.52.0,Germany,4.98,Entertainment
+4,Audible,40,2023-04-03,5,"Great app, but it's a bit pricey.",74,iPhone 13,5.260.15,Australia,0.0,Books
+5,Spotify,44,2023-05-01,1,"Good, but has connection issues sometimes.",47,iPhone SE,4.50.18,Australia,14.31,Music
+6,Headspace,28,2024-05-04,3,Could be better. Some sessions don't work.,26,iPhone 13,7.191.0,India,7.45,Health
+7,WhatsApp,30,2024-09-14,1,Terrible experience. The app doesn't work properly.,10,iPhone 14,4.279.13,Australia,9.78,Social
+8,Clash of Clans,44,2022-12-07,1,Not worth the download. Keeps crashing.,20,iPhone 13,2.232.7,Australia,12.83,Games
+9,TikTok,34,2024-02-11,1,Terrible! Hard to navigate and slow.,7,iPhone 11,2.102.4,Australia,0.0,Entertainment
+10,Zoom,55,2023-02-25,1,Worst experience. Constantly crashes during meetings.,5,iPhone SE,1.294.20,US,0.0,Business
+11,Instagram,45,2023-10-12,5,Amazing app! Helps me stay connected with friends and family.,87,iPhone 14,10.73.8,UK,9.97,Social
+12,Clash of Clans,56,2024-07-12,4,"Great game, but too many in-game purchases.",59,iPhone X,4.243.4,US,0.0,Games
+13,Instagram,33,2023-04-30,1,Terrible experience. The app doesn't work properly.,17,iPhone SE,4.47.15,France,0.0,Social
+14,Clash of Clans,27,2022-10-28,3,"Fun, but it gets repetitive after a while.",57,iPhone 12,9.137.9,Mexico,8.41,Games
+15,Zoom,47,2024-10-03,1,Worst experience. Constantly crashes during meetings.,11,iPhone X,3.253.3,Australia,10.75,Business
+16,Candy Crush Saga,39,2022-10-16,5,Super fun and addictive! Can't stop playing.,80,iPhone 13,9.87.11,France,10.6,Games
+17,Zoom,42,2023-10-22,3,Keeps disconnecting during calls.,15,iPhone 14,1.151.8,India,0.0,Business
+18,Clash of Clans,40,2023-09-16,4,"Great game, but too many in-game purchases.",73,iPhone 11,1.293.2,France,16.44,Games
+19,Instagram,55,2022-12-09,5,Amazing app! Helps me stay connected with friends and family.,88,iPhone 11,10.293.5,India,9.01,Social
+20,Zoom,22,2024-06-14,4,"Good app, but has minor bugs.",73,iPhone SE,7.203.9,Canada,9.99,Business
+21,Duolingo,51,2024-03-12,2,Not engaging enough. Needs more updates.,28,iPhone 12,6.19.20,Germany,0.0,Education
+22,Spotify,33,2024-06-24,5,Love the app! Best place for music.,71,iPhone 12,1.177.5,Canada,0.0,Music
+23,Headspace,41,2023-12-18,1,Not helpful at all. Content is repetitive.,17,iPhone X,3.239.5,UK,8.6,Health
+24,Clash of Clans,49,2024-02-25,1,Not worth the download. Keeps crashing.,9,iPhone X,2.114.15,Australia,0.0,Games
+25,Headspace,47,2023-04-15,3,"Decent, but lacks variety in sessions.",60,iPhone 12,6.91.15,France,11.25,Health
+26,Instagram,57,2023-07-15,5,Amazing app! Helps me stay connected with friends and family.,96,iPhone 11,9.5.16,India,0.0,Social
+27,WhatsApp,37,2023-07-29,5,Amazing app! Helps me stay connected with friends and family.,82,iPhone 13,5.285.14,Canada,6.21,Social
+28,Candy Crush Saga,47,2022-11-09,3,"Fun, but it gets repetitive after a while.",38,iPhone 11,7.256.16,Australia,13.77,Games
+29,Headspace,58,2022-10-20,1,"Decent, but lacks variety in sessions.",31,iPhone X,5.46.14,India,0.0,Health
+30,Clash of Clans,34,2024-03-26,2,Not worth the download. Keeps crashing.,9,iPhone 14,9.183.8,US,0.0,Games
+31,TikTok,53,2024-06-29,4,"Good app, but the ads are annoying.",57,iPhone 12,4.112.7,India,0.0,Entertainment
+32,Instagram,29,2024-01-12,5,"Great app, but sometimes it lags.",51,iPhone 14,7.175.4,Australia,6.11,Social
+33,Spotify,19,2022-12-08,2,"The app is okay, but it crashes often.",16,iPhone 11,6.143.15,Germany,0.0,Music
+34,Duolingo,23,2022-11-20,3,"Useful, but some content is outdated.",59,iPhone 11,6.152.6,US,0.0,Education
+35,Instagram,33,2024-01-21,5,Amazing app! Helps me stay connected with friends and family.,81,iPhone 13,5.182.8,US,0.0,Social
+36,Clash of Clans,54,2022-12-25,3,"Great game, but too many in-game purchases.",53,iPhone SE,10.108.19,Australia,0.0,Games
+37,Clash of Clans,51,2023-06-30,3,"Fun, but it gets repetitive after a while.",37,iPhone SE,5.57.9,France,0.0,Games
+38,Duolingo,49,2023-02-22,3,Not engaging enough. Needs more updates.,28,iPhone 13,3.299.19,Canada,0.0,Education
+39,Instagram,33,2024-04-01,5,Amazing app! Helps me stay connected with friends and family.,87,iPhone 14,4.84.16,US,0.0,Social
+40,Spotify,58,2022-10-09,4,"Great music collection, but needs offline mode.",76,iPhone 12,2.191.14,Canada,0.0,Music
+41,Audible,60,2023-06-25,2,"It's okay, but some audiobooks won't play.",25,iPhone 14,5.5.20,Canada,0.0,Books
+42,Headspace,31,2024-03-01,1,Could be better. Some sessions don't work.,21,iPhone X,5.63.13,India,10.06,Health
+43,Duolingo,33,2022-11-02,3,Not engaging enough. Needs more updates.,39,iPhone 14,7.280.14,Australia,0.0,Education
+44,Duolingo,30,2023-04-27,4,"Good educational app, but can be improved.",60,iPhone 12,2.45.16,Canada,5.5,Education
+45,Clash of Clans,52,2024-07-28,3,"Fun, but it gets repetitive after a while.",40,iPhone 11,8.109.15,US,17.83,Games
+46,WhatsApp,49,2023-01-09,2,Could be better. The app crashes frequently.,32,iPhone 14,8.247.8,UK,9.15,Social
+47,Candy Crush Saga,22,2024-08-11,1,Not worth the download. Keeps crashing.,8,iPhone 13,7.248.20,Germany,11.63,Games
+48,Candy Crush Saga,49,2023-02-12,3,Too many ads interrupting the game.,30,iPhone 14,4.161.3,US,17.51,Games
+49,Clash of Clans,59,2024-06-08,4,"Fun, but it gets repetitive after a while.",44,iPhone 13,4.299.7,UK,0.0,Games
+50,TikTok,55,2023-06-30,2,The app is okay but has too many glitches.,31,iPhone 14,6.234.1,US,0.0,Entertainment
+51,Spotify,60,2023-10-22,4,"Great music collection, but needs offline mode.",55,iPhone 13,5.5.13,UK,10.27,Music
+52,Spotify,31,2023-07-09,1,Not worth it. Limited music selection.,8,iPhone 13,5.175.6,US,0.0,Music
+53,TikTok,46,2024-05-10,3,"Decent, but needs more content.",57,iPhone 12,9.115.15,France,0.0,Entertainment
+54,TikTok,24,2022-10-15,2,Terrible! Hard to navigate and slow.,12,iPhone 14,1.248.16,Australia,6.06,Entertainment
+55,Headspace,28,2024-07-31,3,"Decent, but lacks variety in sessions.",43,iPhone 12,7.264.16,US,6.58,Health
+56,Duolingo,47,2023-08-02,2,Not engaging enough. Needs more updates.,17,iPhone 11,4.258.5,India,10.24,Education
+57,WhatsApp,49,2023-10-23,4,"Great app, but sometimes it lags.",65,iPhone 11,6.123.20,Australia,5.7,Social
+58,WhatsApp,55,2024-02-03,3,Could be better. The app crashes frequently.,34,iPhone 14,8.295.3,Germany,0.0,Social
+59,Audible,42,2024-04-08,1,"It's okay, but some audiobooks won't play.",29,iPhone X,4.116.13,France,0.0,Books
+60,TikTok,51,2022-10-12,3,Awesome app! Best entertainment content.,85,iPhone SE,9.2.7,India,9.71,Entertainment
+61,Duolingo,51,2023-11-09,3,Not engaging enough. Needs more updates.,38,iPhone 13,1.167.15,France,14.78,Education
+62,Duolingo,52,2023-10-25,5,Excellent for learning new skills!,96,iPhone 12,6.62.17,France,0.0,Education
+63,Instagram,30,2024-07-29,1,Could be better. The app crashes frequently.,10,iPhone SE,10.262.20,Australia,13.66,Social
+64,WhatsApp,44,2024-01-15,3,Could be better. The app crashes frequently.,31,iPhone 14,9.122.1,UK,10.57,Social
+65,Headspace,30,2023-12-23,1,"Decent, but lacks variety in sessions.",30,iPhone SE,5.84.9,US,0.0,Health
+66,Duolingo,23,2024-03-15,1,Disappointing. Hard to follow and buggy.,1,iPhone 11,3.250.0,Canada,8.23,Education
+67,Spotify,30,2023-12-31,5,"Great music collection, but needs offline mode.",75,iPhone 14,1.70.13,Mexico,0.0,Music
+68,TikTok,45,2023-01-09,2,The app is okay but has too many glitches.,23,iPhone 11,3.52.6,US,0.0,Entertainment
+69,WhatsApp,39,2024-01-13,2,Could be better. The app crashes frequently.,16,iPhone 12,9.13.7,Australia,10.21,Social
+70,Candy Crush Saga,40,2023-01-10,5,Super fun and addictive! Can't stop playing.,90,iPhone 11,5.275.8,Germany,16.4,Games
+71,WhatsApp,25,2024-09-30,4,"Good app, but too many ads.",37,iPhone 14,8.75.10,France,10.63,Social
+72,Instagram,25,2023-03-14,1,Terrible experience. The app doesn't work properly.,18,iPhone 11,2.256.3,Canada,9.26,Social
+73,Zoom,21,2024-07-02,4,Perfect for remote meetings! Stable and reliable.,98,iPhone X,5.97.6,Australia,5.12,Business
+74,Clash of Clans,31,2023-02-12,1,Not worth the download. Keeps crashing.,11,iPhone 13,10.298.5,US,17.25,Games
+75,Zoom,50,2022-11-28,2,Worst experience. Constantly crashes during meetings.,5,iPhone 13,4.268.16,Mexico,10.16,Business
+76,TikTok,27,2023-06-27,3,"Decent, but needs more content.",50,iPhone 12,7.277.13,UK,0.0,Entertainment
+77,TikTok,19,2022-10-25,1,Terrible! Hard to navigate and slow.,20,iPhone 12,3.131.15,Australia,0.0,Entertainment
+78,Clash of Clans,23,2024-02-10,2,Too many ads interrupting the game.,38,iPhone 11,4.182.6,Mexico,0.0,Games
+79,Zoom,42,2024-10-01,1,Worst experience. Constantly crashes during meetings.,12,iPhone 11,7.127.20,US,0.0,Business
+80,Instagram,18,2023-01-30,1,Terrible experience. The app doesn't work properly.,15,iPhone 11,3.17.20,US,13.81,Social
+81,Candy Crush Saga,43,2024-02-09,5,Super fun and addictive! Can't stop playing.,73,iPhone 14,8.152.8,Canada,0.0,Games
+82,TikTok,51,2023-01-08,1,Terrible! Hard to navigate and slow.,12,iPhone SE,1.14.4,Germany,0.0,Entertainment
+83,WhatsApp,36,2024-06-17,5,Amazing app! Helps me stay connected with friends and family.,87,iPhone 14,7.165.15,Canada,8.68,Social
+84,Instagram,41,2024-01-13,3,Could be better. The app crashes frequently.,33,iPhone 13,5.209.13,Germany,0.0,Social
+85,Duolingo,29,2023-10-29,4,"Good educational app, but can be improved.",71,iPhone X,8.189.7,India,0.0,Education
+86,Audible,58,2024-09-29,3,"Great app, but it's a bit pricey.",71,iPhone X,1.181.2,Australia,0.0,Books
+87,Spotify,42,2024-02-02,1,"Good, but has connection issues sometimes.",36,iPhone X,1.286.4,Germany,0.0,Music
+88,Spotify,54,2023-03-06,1,"The app is okay, but it crashes often.",36,iPhone SE,6.238.6,Mexico,11.74,Music
+89,Audible,40,2023-10-31,1,Terrible. Very limited selection of books.,0,iPhone 11,9.84.13,Canada,0.0,Books
+90,WhatsApp,45,2024-03-01,1,Could be better. The app crashes frequently.,22,iPhone X,1.270.14,Germany,0.0,Social
+91,TikTok,56,2023-08-15,1,Terrible! Hard to navigate and slow.,10,iPhone 13,8.270.0,Germany,3.86,Entertainment
+92,Instagram,20,2023-01-21,3,"Good app, but too many ads.",58,iPhone 12,1.156.10,Germany,11.81,Social
+93,Headspace,50,2024-02-22,5,Very helpful for meditation and mental health.,97,iPhone 11,5.160.0,Canada,0.0,Health
+94,Headspace,46,2023-06-17,3,"Decent, but lacks variety in sessions.",54,iPhone 11,1.109.18,India,0.0,Health
+95,TikTok,50,2024-03-16,2,"Good app, but the ads are annoying.",55,iPhone X,4.87.18,Germany,6.73,Entertainment
+96,Headspace,45,2023-10-14,3,"Decent, but lacks variety in sessions.",49,iPhone 12,9.132.0,Mexico,7.92,Health
+97,Duolingo,25,2023-09-24,1,"Useful, but some content is outdated.",52,iPhone X,10.14.16,UK,0.0,Education
+98,TikTok,42,2022-12-20,4,"Decent, but needs more content.",36,iPhone 13,2.238.12,UK,0.0,Entertainment
+99,WhatsApp,54,2023-05-11,4,"Good app, but too many ads.",31,iPhone 13,5.30.17,Australia,13.61,Social
+100,Zoom,33,2023-02-01,2,Keeps disconnecting during calls.,10,iPhone 12,5.111.13,Canada,13.8,Business
+101,Zoom,43,2024-09-07,4,"Good app, but has minor bugs.",62,iPhone 14,5.246.0,France,14.5,Business
+102,TikTok,41,2023-11-07,5,Awesome app! Best entertainment content.,93,iPhone 11,9.143.2,Canada,4.42,Entertainment
+103,TikTok,18,2022-11-07,2,The app is okay but has too many glitches.,32,iPhone 14,7.200.18,France,4.4,Entertainment
+104,Candy Crush Saga,57,2024-03-18,5,Super fun and addictive! Can't stop playing.,100,iPhone SE,7.206.17,France,18.19,Games
+105,Candy Crush Saga,59,2024-01-23,1,Not worth the download. Keeps crashing.,11,iPhone X,5.250.1,Australia,18.63,Games
+106,Clash of Clans,58,2023-08-24,2,Too many ads interrupting the game.,13,iPhone 11,7.17.8,US,0.0,Games
+107,Clash of Clans,33,2024-08-29,1,Too many ads interrupting the game.,17,iPhone X,9.282.2,Mexico,0.0,Games
+108,Clash of Clans,59,2023-11-30,3,Too many ads interrupting the game.,18,iPhone 13,6.68.14,France,0.0,Games
+109,Clash of Clans,31,2023-08-09,5,Super fun and addictive! Can't stop playing.,93,iPhone 11,8.147.16,Mexico,13.85,Games
+110,WhatsApp,26,2024-06-03,4,"Great app, but sometimes it lags.",51,iPhone 14,2.150.17,UK,0.0,Social
+111,Audible,39,2024-02-05,3,"It's okay, but some audiobooks won't play.",31,iPhone 13,1.156.9,US,0.0,Books
+112,Candy Crush Saga,20,2024-07-15,5,Super fun and addictive! Can't stop playing.,92,iPhone 11,1.186.18,India,18.12,Games
+113,Spotify,42,2024-03-28,4,"Good, but has connection issues sometimes.",36,iPhone 13,5.145.6,Australia,10.19,Music
+114,WhatsApp,43,2024-02-10,3,Amazing app! Helps me stay connected with friends and family.,87,iPhone X,3.4.18,US,0.0,Social
+115,WhatsApp,48,2024-02-04,2,Could be better. The app crashes frequently.,40,iPhone 11,2.111.10,India,0.0,Social
+116,Audible,51,2022-10-18,5,Amazing app for audiobooks! Huge selection.,94,iPhone 12,5.116.14,Germany,12.17,Books
+117,TikTok,56,2023-05-09,4,"Good app, but the ads are annoying.",69,iPhone 14,10.198.0,Australia,8.14,Entertainment
+118,Headspace,24,2024-03-14,1,Could be better. Some sessions don't work.,25,iPhone SE,5.55.14,UK,0.0,Health
+119,Instagram,51,2023-03-17,4,"Great app, but sometimes it lags.",53,iPhone 13,8.195.10,France,0.0,Social
+120,Headspace,47,2023-03-11,1,Not helpful at all. Content is repetitive.,19,iPhone SE,6.271.20,US,6.91,Health
+121,TikTok,49,2022-12-07,4,Awesome app! Best entertainment content.,73,iPhone SE,2.246.12,France,0.0,Entertainment
+122,Spotify,37,2024-07-30,4,"Great music collection, but needs offline mode.",58,iPhone 11,9.265.20,Canada,0.0,Music
+123,Audible,36,2022-12-10,4,"Great app, but it's a bit pricey.",53,iPhone 13,10.278.2,UK,14.46,Books
+124,Duolingo,21,2023-11-18,5,Excellent for learning new skills!,77,iPhone 13,10.27.14,US,0.0,Education
+125,Clash of Clans,58,2023-02-24,5,Super fun and addictive! Can't stop playing.,94,iPhone X,3.162.16,Germany,0.0,Games
+126,Instagram,19,2023-08-30,3,"Good app, but too many ads.",37,iPhone 12,8.109.1,Mexico,0.0,Social
+127,Spotify,18,2023-10-23,2,"The app is okay, but it crashes often.",24,iPhone 13,9.8.8,India,0.0,Music
+128,Duolingo,41,2024-08-17,2,Not engaging enough. Needs more updates.,28,iPhone X,9.161.2,France,10.67,Education
+129,Instagram,38,2023-06-09,3,"Good app, but too many ads.",37,iPhone SE,2.242.13,France,7.45,Social
+130,Zoom,58,2023-05-07,1,"Works fine, but the interface could be better.",42,iPhone SE,9.172.1,India,5.83,Business
+131,Zoom,34,2024-01-30,1,Worst experience. Constantly crashes during meetings.,1,iPhone 12,1.93.10,Australia,0.0,Business
+132,Spotify,59,2023-07-10,4,"Great music collection, but needs offline mode.",77,iPhone 12,4.257.10,India,11.51,Music
+133,Spotify,54,2022-10-25,1,"The app is okay, but it crashes often.",26,iPhone SE,1.103.13,UK,0.0,Music
+134,Spotify,24,2024-03-22,1,Not worth it. Limited music selection.,19,iPhone 11,1.29.0,India,0.0,Music
+135,Candy Crush Saga,31,2023-06-24,4,"Great game, but too many in-game purchases.",51,iPhone 11,2.39.7,France,19.06,Games
+136,Instagram,38,2022-12-03,4,"Great app, but sometimes it lags.",53,iPhone 13,8.38.6,Canada,0.0,Social
+137,Headspace,40,2023-11-29,3,"Decent, but lacks variety in sessions.",54,iPhone 14,6.268.6,US,10.92,Health
+138,TikTok,27,2022-12-14,2,The app is okay but has too many glitches.,26,iPhone 12,1.0.14,India,8.75,Entertainment
+139,Headspace,30,2023-08-21,4,"Good, but the premium content is expensive.",67,iPhone X,10.288.3,US,0.0,Health
+140,Clash of Clans,30,2023-09-23,5,Super fun and addictive! Can't stop playing.,95,iPhone 14,2.178.1,Canada,6.25,Games
+141,Audible,28,2023-12-10,5,Amazing app for audiobooks! Huge selection.,76,iPhone 13,1.135.10,Australia,0.0,Books
+142,Candy Crush Saga,33,2024-02-18,3,"Great game, but too many in-game purchases.",55,iPhone X,3.270.4,UK,5.45,Games
+143,Headspace,41,2023-09-01,2,Could be better. Some sessions don't work.,13,iPhone 12,7.140.4,UK,6.09,Health
+144,Candy Crush Saga,32,2024-03-16,3,Too many ads interrupting the game.,25,iPhone 14,3.193.15,Germany,14.61,Games
+145,Zoom,37,2024-07-19,1,Keeps disconnecting during calls.,26,iPhone X,1.149.16,Canada,0.0,Business
+146,Clash of Clans,47,2024-06-11,1,Too many ads interrupting the game.,15,iPhone X,8.187.1,Mexico,15.14,Games
+147,Clash of Clans,54,2023-01-11,4,"Fun, but it gets repetitive after a while.",54,iPhone 14,9.244.12,Canada,16.36,Games
+148,WhatsApp,32,2023-08-28,3,Could be better. The app crashes frequently.,17,iPhone 14,5.191.16,UK,6.14,Social
+149,Duolingo,35,2022-10-17,1,Disappointing. Hard to follow and buggy.,19,iPhone 13,7.162.4,India,0.0,Education
+150,Audible,26,2023-10-31,3,"Great app, but it's a bit pricey.",72,iPhone SE,5.15.0,India,0.0,Books
+151,Instagram,35,2024-06-12,5,Amazing app! Helps me stay connected with friends and family.,80,iPhone 13,2.257.9,US,6.72,Social
+152,Headspace,60,2022-11-23,1,Not helpful at all. Content is repetitive.,0,iPhone 11,9.263.15,Canada,0.0,Health
+153,Zoom,55,2024-02-15,3,"Good app, but has minor bugs.",51,iPhone SE,7.193.11,France,10.72,Business
+154,Audible,53,2024-09-02,3,"Good, but needs more features for listeners.",47,iPhone 13,6.271.16,Canada,0.0,Books
+155,Audible,21,2024-05-26,4,"Great app, but it's a bit pricey.",63,iPhone 11,7.11.7,Mexico,0.0,Books
+156,Headspace,33,2024-02-29,2,Not helpful at all. Content is repetitive.,9,iPhone 14,9.133.5,France,8.14,Health
+157,Instagram,58,2022-12-22,3,"Good app, but too many ads.",58,iPhone 14,3.290.16,Germany,0.0,Social
+158,Audible,58,2023-09-25,4,"Great app, but it's a bit pricey.",52,iPhone 14,5.46.5,UK,0.0,Books
+159,Candy Crush Saga,49,2022-11-14,2,Too many ads interrupting the game.,37,iPhone 12,2.211.16,India,13.48,Games
+160,Instagram,56,2023-11-19,2,Could be better. The app crashes frequently.,10,iPhone 11,5.286.20,US,10.13,Social
+161,Duolingo,27,2024-05-27,2,Not engaging enough. Needs more updates.,23,iPhone 12,4.179.10,France,0.0,Education
+162,TikTok,38,2024-02-12,1,Terrible! Hard to navigate and slow.,8,iPhone SE,3.238.1,Germany,6.4,Entertainment
+163,Zoom,54,2023-10-11,5,Perfect for remote meetings! Stable and reliable.,71,iPhone 12,8.94.14,Canada,10.94,Business
+164,TikTok,33,2023-01-18,3,Awesome app! Best entertainment content.,76,iPhone X,7.288.10,India,0.0,Entertainment
+165,TikTok,57,2024-09-09,2,The app is okay but has too many glitches.,34,iPhone X,5.54.0,Germany,4.85,Entertainment
+166,Audible,52,2022-12-24,5,Amazing app for audiobooks! Huge selection.,71,iPhone X,7.88.18,Mexico,0.0,Books
+167,Audible,18,2023-11-19,5,Amazing app for audiobooks! Huge selection.,73,iPhone 11,10.24.17,UK,0.0,Books
+168,Candy Crush Saga,25,2024-05-01,5,Super fun and addictive! Can't stop playing.,92,iPhone 11,2.225.11,France,9.05,Games
+169,WhatsApp,29,2024-01-06,1,Terrible experience. The app doesn't work properly.,1,iPhone 11,1.58.2,US,0.0,Social
+170,Duolingo,47,2023-05-19,5,"Good educational app, but can be improved.",68,iPhone 13,8.106.15,Australia,0.0,Education
+171,TikTok,51,2023-04-20,5,"Good app, but the ads are annoying.",79,iPhone 13,4.51.19,Australia,0.0,Entertainment
+172,Candy Crush Saga,26,2024-06-01,2,Too many ads interrupting the game.,27,iPhone X,10.227.17,India,10.4,Games
+173,Audible,43,2024-02-18,2,"It's okay, but some audiobooks won't play.",14,iPhone 11,2.8.15,Mexico,0.0,Books
+174,Zoom,38,2023-08-11,5,Perfect for remote meetings! Stable and reliable.,93,iPhone 12,9.280.0,UK,0.0,Business
+175,Instagram,36,2023-10-11,1,Terrible experience. The app doesn't work properly.,8,iPhone 12,9.235.6,India,0.0,Social
+176,Instagram,22,2024-07-27,1,Terrible experience. The app doesn't work properly.,7,iPhone SE,4.233.11,Australia,6.45,Social
+177,Candy Crush Saga,34,2023-10-31,3,"Fun, but it gets repetitive after a while.",46,iPhone 13,9.180.15,Mexico,11.27,Games
+178,Zoom,36,2023-03-06,4,"Good app, but has minor bugs.",57,iPhone 12,5.298.12,Germany,0.0,Business
+179,Headspace,23,2024-10-05,2,Not helpful at all. Content is repetitive.,20,iPhone 14,9.44.18,UK,0.0,Health
+180,WhatsApp,33,2024-06-14,4,"Great app, but sometimes it lags.",73,iPhone 13,6.155.0,Germany,13.01,Social
+181,Clash of Clans,43,2023-06-30,5,"Great game, but too many in-game purchases.",80,iPhone 13,9.50.9,Canada,15.18,Games
+182,Duolingo,33,2024-06-20,1,Disappointing. Hard to follow and buggy.,3,iPhone 12,8.218.2,US,0.0,Education
+183,TikTok,50,2023-08-13,2,The app is okay but has too many glitches.,23,iPhone 12,7.44.18,UK,5.37,Entertainment
+184,Clash of Clans,47,2024-10-06,1,Not worth the download. Keeps crashing.,16,iPhone 13,6.272.6,Canada,16.68,Games
+185,WhatsApp,21,2023-07-10,3,"Good app, but too many ads.",46,iPhone 14,5.299.0,Canada,0.0,Social
+186,TikTok,47,2023-03-13,3,"Decent, but needs more content.",58,iPhone X,9.213.2,UK,7.94,Entertainment
+187,Candy Crush Saga,57,2023-01-05,4,"Fun, but it gets repetitive after a while.",51,iPhone 14,9.79.20,India,8.5,Games
+188,Clash of Clans,40,2024-04-01,5,Super fun and addictive! Can't stop playing.,94,iPhone 11,9.244.10,Mexico,0.0,Games
+189,Audible,29,2024-04-14,4,"Great app, but it's a bit pricey.",64,iPhone 11,3.91.19,India,0.0,Books
+190,Clash of Clans,49,2023-01-01,5,Super fun and addictive! Can't stop playing.,98,iPhone X,5.177.8,India,10.17,Games
+191,Instagram,45,2023-11-17,1,"Good app, but too many ads.",58,iPhone X,9.12.13,US,0.0,Social
+192,Audible,54,2023-02-10,1,Terrible. Very limited selection of books.,1,iPhone 13,10.167.0,India,0.0,Books
+193,WhatsApp,44,2022-11-09,3,"Good app, but too many ads.",41,iPhone X,4.119.14,France,0.0,Social
+194,TikTok,30,2024-03-30,1,The app is okay but has too many glitches.,13,iPhone X,6.200.3,France,5.77,Entertainment
+195,Candy Crush Saga,52,2024-08-24,4,"Great game, but too many in-game purchases.",74,iPhone 11,4.151.6,UK,10.97,Games
+196,TikTok,37,2023-07-07,1,The app is okay but has too many glitches.,19,iPhone X,5.190.6,Canada,3.26,Entertainment
+197,Zoom,49,2024-07-15,3,"Works fine, but the interface could be better.",57,iPhone 11,4.10.17,Australia,0.0,Business
+198,Instagram,47,2024-01-24,5,Amazing app! Helps me stay connected with friends and family.,72,iPhone 12,4.229.11,Mexico,10.76,Social
+199,Headspace,31,2023-01-01,1,Not helpful at all. Content is repetitive.,14,iPhone 13,6.28.11,France,10.01,Health
+200,WhatsApp,28,2022-11-07,4,"Great app, but sometimes it lags.",77,iPhone 11,1.89.9,India,0.0,Social
+201,Clash of Clans,42,2022-12-09,2,Too many ads interrupting the game.,33,iPhone 14,10.182.19,India,8.3,Games
+202,Instagram,52,2024-05-05,1,Terrible experience. The app doesn't work properly.,10,iPhone 11,5.98.17,Mexico,0.0,Social
+203,WhatsApp,21,2024-09-14,5,Amazing app! Helps me stay connected with friends and family.,81,iPhone 14,4.138.17,Australia,13.98,Social
+204,Clash of Clans,57,2024-03-03,1,Not worth the download. Keeps crashing.,20,iPhone 11,1.164.2,France,9.45,Games
+205,Instagram,29,2024-07-09,5,Amazing app! Helps me stay connected with friends and family.,93,iPhone 12,5.7.5,Germany,10.42,Social
+206,Candy Crush Saga,24,2024-05-10,2,Not worth the download. Keeps crashing.,10,iPhone 13,2.196.4,Mexico,9.55,Games
+207,Audible,35,2024-04-18,4,"Great app, but it's a bit pricey.",78,iPhone 12,8.236.13,US,0.0,Books
+208,Duolingo,53,2024-04-12,3,Not engaging enough. Needs more updates.,11,iPhone 14,1.132.11,Canada,11.49,Education
+209,Duolingo,45,2024-01-29,4,"Good educational app, but can be improved.",64,iPhone 12,10.64.16,India,14.57,Education
+210,Headspace,21,2024-04-07,1,Could be better. Some sessions don't work.,29,iPhone SE,8.192.6,France,0.0,Health
+211,TikTok,42,2024-06-29,2,The app is okay but has too many glitches.,32,iPhone 11,2.89.1,Mexico,0.0,Entertainment
+212,Headspace,23,2023-01-04,3,"Good, but the premium content is expensive.",79,iPhone SE,9.202.7,Australia,9.51,Health
+213,Instagram,56,2023-09-02,1,Terrible experience. The app doesn't work properly.,8,iPhone 13,2.163.3,Australia,0.0,Social
+214,TikTok,40,2023-09-19,1,Terrible! Hard to navigate and slow.,14,iPhone 13,3.86.4,UK,0.0,Entertainment
+215,Instagram,31,2023-11-23,3,"Good app, but too many ads.",59,iPhone X,3.133.5,Mexico,0.0,Social
+216,Instagram,37,2023-07-12,1,Could be better. The app crashes frequently.,40,iPhone SE,6.227.6,US,0.0,Social
+217,Candy Crush Saga,24,2024-01-12,3,Super fun and addictive! Can't stop playing.,71,iPhone X,7.117.5,US,0.0,Games
+218,Headspace,56,2023-06-13,5,Very helpful for meditation and mental health.,73,iPhone 12,4.244.6,Australia,0.0,Health
+219,Clash of Clans,41,2024-05-22,3,"Fun, but it gets repetitive after a while.",42,iPhone 12,1.28.10,Canada,0.0,Games
+220,Duolingo,57,2023-09-23,2,"Good educational app, but can be improved.",51,iPhone SE,2.79.10,India,0.0,Education
+221,TikTok,34,2022-12-29,3,"Decent, but needs more content.",38,iPhone 14,1.211.5,Germany,0.0,Entertainment
+222,WhatsApp,23,2023-01-06,1,Terrible experience. The app doesn't work properly.,2,iPhone X,6.86.2,Germany,0.0,Social
+223,Duolingo,58,2023-09-09,1,"Useful, but some content is outdated.",50,iPhone SE,2.63.19,US,0.0,Education
+224,WhatsApp,36,2022-11-14,1,Terrible experience. The app doesn't work properly.,12,iPhone SE,3.166.8,Canada,12.31,Social
+225,Headspace,34,2022-11-12,1,Not helpful at all. Content is repetitive.,3,iPhone 12,3.95.14,Canada,11.69,Health
+226,Candy Crush Saga,29,2023-06-07,1,Not worth the download. Keeps crashing.,0,iPhone SE,7.108.9,France,9.82,Games
+227,Candy Crush Saga,28,2024-05-05,1,Not worth the download. Keeps crashing.,20,iPhone SE,7.123.10,UK,16.86,Games
+228,Zoom,48,2024-05-12,5,Perfect for remote meetings! Stable and reliable.,74,iPhone 14,3.127.15,US,0.0,Business
+229,Candy Crush Saga,41,2023-12-11,5,Super fun and addictive! Can't stop playing.,74,iPhone 13,5.129.11,Australia,11.84,Games
+230,WhatsApp,52,2023-04-18,4,"Great app, but sometimes it lags.",59,iPhone 12,1.46.9,US,10.55,Social
+231,Spotify,28,2024-01-03,1,Not worth it. Limited music selection.,5,iPhone 12,1.25.7,Germany,11.22,Music
+232,Candy Crush Saga,50,2023-12-16,3,"Fun, but it gets repetitive after a while.",40,iPhone 11,10.281.8,US,5.31,Games
+233,Instagram,57,2023-06-15,3,"Good app, but too many ads.",36,iPhone 11,5.145.11,France,0.0,Social
+234,Instagram,50,2023-08-31,1,Terrible experience. The app doesn't work properly.,10,iPhone 11,9.260.20,Mexico,6.05,Social
+235,Duolingo,34,2024-07-18,4,Excellent for learning new skills!,96,iPhone SE,10.133.13,India,0.0,Education
+236,Duolingo,28,2024-03-21,5,Excellent for learning new skills!,77,iPhone 11,5.241.11,Germany,0.0,Education
+237,Headspace,36,2024-08-26,2,Could be better. Some sessions don't work.,14,iPhone 14,5.209.0,France,11.81,Health
+238,Instagram,48,2023-04-06,5,"Great app, but sometimes it lags.",54,iPhone 13,1.4.2,UK,9.55,Social
+239,Spotify,42,2024-07-05,3,"Good, but has connection issues sometimes.",40,iPhone 14,8.94.3,Mexico,13.82,Music
+240,Clash of Clans,27,2024-02-09,5,Super fun and addictive! Can't stop playing.,80,iPhone 14,10.237.8,Canada,5.32,Games
+241,Audible,22,2023-10-02,5,"Great app, but it's a bit pricey.",73,iPhone 13,8.55.13,Australia,0.0,Books
+242,Audible,34,2024-09-12,1,Terrible. Very limited selection of books.,8,iPhone 12,3.243.17,Mexico,0.0,Books
+243,Audible,37,2023-10-29,4,"Good, but needs more features for listeners.",45,iPhone 14,4.54.14,UK,0.0,Books
+244,Candy Crush Saga,59,2023-08-16,1,Not worth the download. Keeps crashing.,7,iPhone X,9.244.14,Germany,0.0,Games
+245,WhatsApp,43,2024-06-15,1,Terrible experience. The app doesn't work properly.,18,iPhone 14,4.296.17,Australia,0.0,Social
+246,Headspace,21,2023-11-27,5,Very helpful for meditation and mental health.,89,iPhone 14,2.256.8,France,0.0,Health
+247,Duolingo,40,2022-12-31,5,Excellent for learning new skills!,73,iPhone SE,4.240.1,Australia,0.0,Education
+248,Duolingo,22,2023-06-06,1,"Useful, but some content is outdated.",56,iPhone X,4.182.12,France,10.56,Education
+249,TikTok,38,2023-03-20,1,Terrible! Hard to navigate and slow.,8,iPhone 12,5.104.9,Australia,3.23,Entertainment
+250,Spotify,30,2022-11-08,1,Not worth it. Limited music selection.,6,iPhone 14,4.188.11,Mexico,10.02,Music
+251,Headspace,46,2023-08-26,2,"Good, but the premium content is expensive.",71,iPhone SE,3.116.13,France,14.98,Health
+252,Clash of Clans,32,2023-08-14,2,Not worth the download. Keeps crashing.,16,iPhone 13,6.213.13,US,0.0,Games
+253,Duolingo,21,2023-08-13,1,Disappointing. Hard to follow and buggy.,13,iPhone 12,2.136.2,Australia,8.85,Education
+254,Clash of Clans,47,2024-01-01,2,"Great game, but too many in-game purchases.",65,iPhone X,7.66.6,India,18.47,Games
+255,Duolingo,45,2024-05-07,5,Excellent for learning new skills!,73,iPhone 14,2.164.19,US,5.51,Education
+256,Duolingo,22,2024-04-02,1,Disappointing. Hard to follow and buggy.,12,iPhone 11,1.277.17,Australia,12.84,Education
+257,Headspace,27,2024-09-30,2,Not helpful at all. Content is repetitive.,18,iPhone 13,8.248.1,US,14.72,Health
+258,Headspace,27,2023-08-28,3,Could be better. Some sessions don't work.,36,iPhone 14,6.126.16,France,14.2,Health
+259,Instagram,35,2023-06-23,2,"Great app, but sometimes it lags.",56,iPhone SE,4.149.3,India,11.36,Social
+260,WhatsApp,26,2024-02-18,1,Could be better. The app crashes frequently.,12,iPhone X,10.165.14,India,0.0,Social
+261,Clash of Clans,41,2023-10-31,5,Super fun and addictive! Can't stop playing.,81,iPhone 13,5.174.19,Mexico,9.8,Games
+262,TikTok,24,2024-06-07,4,"Good app, but the ads are annoying.",65,iPhone 13,9.105.17,US,9.15,Entertainment
+263,Headspace,48,2023-11-18,1,Not helpful at all. Content is repetitive.,3,iPhone 11,10.243.3,US,6.19,Health
+264,Spotify,22,2024-05-18,2,Not worth it. Limited music selection.,3,iPhone 13,2.167.13,Canada,10.15,Music
+265,Spotify,35,2024-08-20,2,"The app is okay, but it crashes often.",38,iPhone 13,1.259.14,US,10.83,Music
+266,Instagram,22,2023-06-12,4,"Great app, but sometimes it lags.",55,iPhone 12,4.102.1,Australia,0.0,Social
+267,Zoom,24,2023-12-06,2,Worst experience. Constantly crashes during meetings.,14,iPhone 14,2.103.6,France,0.0,Business
+268,Spotify,48,2023-02-08,4,"Great music collection, but needs offline mode.",78,iPhone 11,8.195.13,UK,0.0,Music
+269,TikTok,45,2023-09-19,2,The app is okay but has too many glitches.,12,iPhone 11,10.210.7,Germany,0.0,Entertainment
+270,Zoom,40,2023-02-19,1,Worst experience. Constantly crashes during meetings.,15,iPhone SE,2.239.0,France,0.0,Business
+271,Clash of Clans,53,2023-06-28,5,Super fun and addictive! Can't stop playing.,74,iPhone 13,10.91.16,India,6.21,Games
+272,TikTok,60,2024-02-23,1,"Decent, but needs more content.",44,iPhone SE,4.77.5,France,0.0,Entertainment
+273,Instagram,52,2023-04-14,3,"Good app, but too many ads.",56,iPhone 12,5.12.9,Canada,0.0,Social
+274,WhatsApp,59,2023-01-02,5,Amazing app! Helps me stay connected with friends and family.,93,iPhone X,1.136.12,UK,9.58,Social
+275,Clash of Clans,45,2023-01-16,5,Super fun and addictive! Can't stop playing.,82,iPhone 13,9.132.1,Canada,16.9,Games
+276,Candy Crush Saga,26,2024-09-04,3,Too many ads interrupting the game.,38,iPhone 14,8.252.12,Germany,0.0,Games
+277,Zoom,34,2023-06-16,5,Perfect for remote meetings! Stable and reliable.,91,iPhone 12,10.63.14,France,0.0,Business
+278,Instagram,34,2024-03-09,3,Could be better. The app crashes frequently.,21,iPhone 14,5.169.19,Canada,0.0,Social
+279,Candy Crush Saga,42,2023-10-17,5,Super fun and addictive! Can't stop playing.,92,iPhone 14,3.204.11,Mexico,7.64,Games
+280,Zoom,58,2024-04-21,4,"Good app, but has minor bugs.",62,iPhone 11,7.279.19,Mexico,0.0,Business
+281,Headspace,29,2023-02-16,2,"Good, but the premium content is expensive.",69,iPhone X,8.123.8,Mexico,0.0,Health
+282,WhatsApp,20,2024-01-15,2,Could be better. The app crashes frequently.,24,iPhone 12,9.67.20,US,7.31,Social
+283,Headspace,42,2022-12-31,5,Very helpful for meditation and mental health.,95,iPhone X,5.61.10,France,0.0,Health
+284,Spotify,50,2023-08-30,1,Not worth it. Limited music selection.,13,iPhone SE,5.97.8,Mexico,6.87,Music
+285,Zoom,46,2024-04-10,2,Worst experience. Constantly crashes during meetings.,19,iPhone 14,6.267.6,Canada,11.3,Business
+286,Instagram,33,2024-03-20,3,Could be better. The app crashes frequently.,16,iPhone 14,5.245.13,France,0.0,Social
+287,Audible,18,2022-10-27,4,Amazing app for audiobooks! Huge selection.,90,iPhone X,5.283.17,Canada,0.0,Books
+288,Clash of Clans,34,2023-07-29,3,Super fun and addictive! Can't stop playing.,83,iPhone SE,2.112.18,Mexico,0.0,Games
+289,Audible,52,2023-12-20,3,"Good, but needs more features for listeners.",30,iPhone SE,5.207.6,Germany,11.94,Books
+290,Duolingo,27,2024-08-20,5,Excellent for learning new skills!,84,iPhone 14,7.156.16,France,0.0,Education
+291,Candy Crush Saga,29,2024-09-20,5,Super fun and addictive! Can't stop playing.,78,iPhone X,4.67.13,France,11.78,Games
+292,Candy Crush Saga,33,2024-01-27,3,"Fun, but it gets repetitive after a while.",40,iPhone 11,1.172.2,Canada,14.03,Games
+293,Spotify,19,2022-12-09,4,"Great music collection, but needs offline mode.",73,iPhone 12,9.241.5,Australia,11.09,Music
+294,Instagram,40,2023-03-28,4,"Great app, but sometimes it lags.",71,iPhone SE,3.235.0,UK,0.0,Social
+295,Candy Crush Saga,56,2024-03-11,5,"Great game, but too many in-game purchases.",56,iPhone 14,7.103.1,Australia,8.35,Games
+296,Spotify,42,2023-12-04,4,Love the app! Best place for music.,87,iPhone SE,3.130.0,UK,10.33,Music
+297,Spotify,31,2023-12-09,5,"Great music collection, but needs offline mode.",55,iPhone 14,4.148.4,Canada,10.94,Music
+298,Audible,32,2023-02-26,4,"Great app, but it's a bit pricey.",58,iPhone 12,4.6.17,US,8.33,Books
+299,Candy Crush Saga,44,2024-07-22,2,Not worth the download. Keeps crashing.,9,iPhone 13,7.180.10,France,13.66,Games
+300,Duolingo,51,2023-04-02,3,"Useful, but some content is outdated.",46,iPhone 12,9.198.12,India,9.63,Education
+301,TikTok,43,2023-06-02,1,Terrible! Hard to navigate and slow.,6,iPhone X,6.172.15,India,0.0,Entertainment
+302,Instagram,18,2024-08-22,1,"Good app, but too many ads.",35,iPhone SE,3.215.5,France,0.0,Social
+303,Spotify,20,2023-01-23,5,Love the app! Best place for music.,91,iPhone 13,1.162.10,Germany,0.0,Music
+304,Zoom,23,2024-05-11,3,Keeps disconnecting during calls.,10,iPhone 14,9.119.10,Canada,0.0,Business
+305,TikTok,22,2024-04-02,4,"Good app, but the ads are annoying.",71,iPhone 12,4.196.0,Germany,3.77,Entertainment
+306,WhatsApp,31,2024-01-16,4,"Great app, but sometimes it lags.",67,iPhone 12,6.170.11,Canada,0.0,Social
+307,Duolingo,59,2023-08-11,2,Not engaging enough. Needs more updates.,14,iPhone 12,8.76.2,France,0.0,Education
+308,Audible,41,2024-06-13,3,"It's okay, but some audiobooks won't play.",23,iPhone 14,2.137.13,Mexico,11.23,Books
+309,Audible,60,2023-05-08,3,"Good, but needs more features for listeners.",34,iPhone X,10.159.19,Canada,11.32,Books
+310,WhatsApp,24,2023-04-01,2,Terrible experience. The app doesn't work properly.,2,iPhone 13,3.109.4,UK,5.44,Social
+311,Clash of Clans,52,2024-05-20,3,Super fun and addictive! Can't stop playing.,94,iPhone SE,8.191.18,Canada,0.0,Games
+312,Headspace,59,2023-01-15,5,Very helpful for meditation and mental health.,76,iPhone 12,1.216.17,Germany,0.0,Health
+313,Clash of Clans,39,2023-04-11,4,"Great game, but too many in-game purchases.",64,iPhone 11,6.172.3,France,0.0,Games
+314,Audible,34,2024-07-02,3,"Good, but needs more features for listeners.",50,iPhone 11,7.282.14,UK,0.0,Books
+315,Duolingo,28,2022-12-29,5,"Good educational app, but can be improved.",80,iPhone 13,6.154.6,France,11.71,Education
+316,Zoom,40,2023-10-05,3,Perfect for remote meetings! Stable and reliable.,81,iPhone SE,5.136.17,US,5.05,Business
+317,Spotify,52,2024-05-11,3,"The app is okay, but it crashes often.",24,iPhone 13,6.195.10,France,11.65,Music
+318,Audible,59,2024-06-18,5,"Great app, but it's a bit pricey.",51,iPhone 14,8.197.17,India,14.65,Books
+319,TikTok,57,2023-02-19,2,The app is okay but has too many glitches.,35,iPhone 14,1.248.6,India,9.9,Entertainment
+320,Clash of Clans,51,2023-05-07,1,Too many ads interrupting the game.,38,iPhone SE,4.87.8,India,0.0,Games
+321,Instagram,18,2023-12-24,2,Could be better. The app crashes frequently.,28,iPhone 11,5.80.3,Canada,0.0,Social
+322,Duolingo,39,2023-11-25,1,Disappointing. Hard to follow and buggy.,8,iPhone 11,6.138.18,Germany,14.75,Education
+323,Instagram,46,2023-01-14,3,"Good app, but too many ads.",31,iPhone 12,6.64.9,Canada,9.18,Social
+324,TikTok,39,2023-05-15,4,"Decent, but needs more content.",36,iPhone 13,10.133.18,France,9.62,Entertainment
+325,Zoom,46,2024-03-14,4,"Good app, but has minor bugs.",66,iPhone 11,9.136.16,India,13.54,Business
+326,Spotify,47,2023-05-10,4,"Good, but has connection issues sometimes.",47,iPhone 14,7.91.16,Canada,11.3,Music
+327,Candy Crush Saga,31,2023-11-12,2,"Great game, but too many in-game purchases.",56,iPhone X,2.145.3,UK,6.0,Games
+328,Clash of Clans,45,2023-08-17,2,Not worth the download. Keeps crashing.,13,iPhone 13,1.66.16,France,0.0,Games
+329,Audible,44,2023-07-04,4,"Good, but needs more features for listeners.",39,iPhone 13,4.255.10,Germany,0.0,Books
+330,Instagram,47,2022-12-30,2,"Great app, but sometimes it lags.",79,iPhone X,2.252.11,UK,12.58,Social
+331,Spotify,44,2024-08-29,1,Not worth it. Limited music selection.,13,iPhone 12,2.233.20,Canada,8.41,Music
+332,Headspace,35,2024-02-24,4,"Good, but the premium content is expensive.",78,iPhone X,6.230.6,France,5.59,Health
+333,Audible,20,2024-03-31,4,"Great app, but it's a bit pricey.",50,iPhone 12,4.144.6,US,9.86,Books
+334,Duolingo,47,2023-06-18,3,"Useful, but some content is outdated.",46,iPhone 14,2.31.7,UK,0.0,Education
+335,Spotify,52,2023-09-01,5,Love the app! Best place for music.,85,iPhone 12,2.194.13,France,0.0,Music
+336,Audible,57,2023-07-13,5,Amazing app for audiobooks! Huge selection.,86,iPhone 12,6.110.19,Canada,12.49,Books
+337,WhatsApp,23,2024-07-15,4,"Great app, but sometimes it lags.",72,iPhone 11,5.15.18,Canada,13.06,Social
+338,TikTok,23,2022-11-25,5,Awesome app! Best entertainment content.,95,iPhone 13,2.234.5,Germany,0.0,Entertainment
+339,WhatsApp,51,2024-03-27,4,"Great app, but sometimes it lags.",79,iPhone X,3.39.16,US,0.0,Social
+340,WhatsApp,56,2024-04-29,3,"Good app, but too many ads.",51,iPhone 11,3.164.17,France,12.65,Social
+341,WhatsApp,52,2023-03-08,2,Could be better. The app crashes frequently.,35,iPhone X,4.268.7,Canada,0.0,Social
+342,Headspace,56,2023-09-26,4,"Good, but the premium content is expensive.",65,iPhone 11,6.109.7,India,0.0,Health
+343,Candy Crush Saga,44,2024-08-10,3,"Fun, but it gets repetitive after a while.",54,iPhone 13,4.129.4,India,0.0,Games
+344,Duolingo,23,2023-08-27,4,"Good educational app, but can be improved.",79,iPhone 11,2.255.0,UK,12.78,Education
+345,Headspace,47,2024-06-27,1,Not helpful at all. Content is repetitive.,6,iPhone SE,8.69.4,Canada,10.73,Health
+346,TikTok,58,2024-08-21,4,"Decent, but needs more content.",41,iPhone 13,6.300.20,UK,0.0,Entertainment
+347,Zoom,29,2024-09-07,5,"Good app, but has minor bugs.",70,iPhone 13,9.109.13,UK,0.0,Business
+348,TikTok,39,2024-04-25,4,"Good app, but the ads are annoying.",76,iPhone 11,4.200.9,Australia,3.77,Entertainment
+349,Audible,43,2024-08-26,1,"Good, but needs more features for listeners.",57,iPhone SE,6.283.8,Canada,0.0,Books
+350,Clash of Clans,31,2023-04-26,1,Not worth the download. Keeps crashing.,0,iPhone 12,1.85.2,Canada,0.0,Games
+351,Candy Crush Saga,21,2024-07-18,2,Too many ads interrupting the game.,21,iPhone 12,7.27.10,India,6.66,Games
+352,Zoom,43,2023-01-21,2,Keeps disconnecting during calls.,29,iPhone 12,5.278.18,Canada,0.0,Business
+353,Spotify,48,2024-07-17,5,Love the app! Best place for music.,98,iPhone 11,9.202.10,India,9.95,Music
+354,Headspace,42,2024-04-03,3,"Decent, but lacks variety in sessions.",51,iPhone 11,4.56.1,US,0.0,Health
+355,Spotify,25,2023-04-02,2,"Great music collection, but needs offline mode.",60,iPhone SE,1.258.2,Canada,7.58,Music
+356,WhatsApp,20,2023-11-23,5,"Great app, but sometimes it lags.",71,iPhone 14,7.74.15,France,0.0,Social
+357,Clash of Clans,55,2024-09-28,1,Not worth the download. Keeps crashing.,15,iPhone SE,2.137.13,US,14.76,Games
+358,Audible,35,2023-12-12,5,Amazing app for audiobooks! Huge selection.,91,iPhone SE,5.272.0,India,6.61,Books
+359,Instagram,52,2023-05-29,5,Amazing app! Helps me stay connected with friends and family.,98,iPhone 14,2.88.12,Mexico,0.0,Social
+360,Zoom,50,2024-01-27,1,Worst experience. Constantly crashes during meetings.,20,iPhone SE,2.108.16,France,8.16,Business
+361,Duolingo,41,2024-08-19,5,Excellent for learning new skills!,94,iPhone 14,3.181.1,Canada,6.77,Education
+362,Clash of Clans,27,2023-07-26,5,Super fun and addictive! Can't stop playing.,100,iPhone 13,2.299.12,Canada,12.37,Games
+363,Instagram,38,2024-05-06,5,Amazing app! Helps me stay connected with friends and family.,100,iPhone 13,1.270.15,Germany,0.0,Social
+364,Candy Crush Saga,34,2023-07-20,1,Too many ads interrupting the game.,14,iPhone SE,1.98.1,UK,11.11,Games
+365,Spotify,27,2023-06-27,2,"The app is okay, but it crashes often.",32,iPhone 13,6.87.3,US,0.0,Music
+366,Duolingo,42,2023-12-29,3,"Useful, but some content is outdated.",37,iPhone 12,10.32.1,Mexico,0.0,Education
+367,Headspace,20,2024-06-27,4,"Good, but the premium content is expensive.",57,iPhone 11,7.65.18,UK,11.29,Health
+368,Audible,25,2023-02-01,5,Amazing app for audiobooks! Huge selection.,74,iPhone 12,2.141.13,Mexico,7.41,Books
+369,TikTok,32,2023-01-06,2,Terrible! Hard to navigate and slow.,10,iPhone 14,2.163.12,US,6.41,Entertainment
+370,Audible,27,2024-01-01,5,"Great app, but it's a bit pricey.",65,iPhone 14,8.115.18,Canada,7.3,Books
+371,Clash of Clans,36,2024-06-25,1,Not worth the download. Keeps crashing.,11,iPhone 14,3.264.12,India,8.82,Games
+372,Clash of Clans,30,2024-04-16,5,Super fun and addictive! Can't stop playing.,78,iPhone 12,10.215.2,UK,0.0,Games
+373,Audible,41,2023-11-15,3,"It's okay, but some audiobooks won't play.",27,iPhone 13,1.230.11,Germany,14.41,Books
+374,Instagram,37,2023-12-03,2,Could be better. The app crashes frequently.,38,iPhone 11,3.218.10,Canada,5.83,Social
+375,Zoom,46,2023-08-31,2,Keeps disconnecting during calls.,16,iPhone SE,10.130.7,Australia,9.67,Business
+376,Duolingo,30,2023-09-05,1,Disappointing. Hard to follow and buggy.,14,iPhone 11,4.62.18,Canada,8.92,Education
+377,Audible,59,2023-01-17,1,Terrible. Very limited selection of books.,18,iPhone 14,5.72.16,UK,0.0,Books
+378,WhatsApp,44,2023-07-04,5,Amazing app! Helps me stay connected with friends and family.,87,iPhone 14,8.279.10,Australia,13.58,Social
+379,Audible,32,2023-12-13,5,Amazing app for audiobooks! Huge selection.,95,iPhone 12,2.287.9,UK,9.4,Books
+380,Instagram,47,2023-05-11,1,Terrible experience. The app doesn't work properly.,14,iPhone 12,7.129.11,Canada,0.0,Social
+381,Candy Crush Saga,46,2024-02-05,2,Too many ads interrupting the game.,37,iPhone 14,2.286.10,UK,14.17,Games
+382,Clash of Clans,30,2023-03-26,4,"Fun, but it gets repetitive after a while.",37,iPhone 13,1.162.0,Germany,17.89,Games
+383,TikTok,56,2023-07-07,5,Awesome app! Best entertainment content.,90,iPhone 13,4.113.6,Germany,3.8,Entertainment
+384,Headspace,50,2023-02-01,3,"Decent, but lacks variety in sessions.",57,iPhone 14,2.270.5,France,0.0,Health
+385,Audible,34,2023-03-14,2,"It's okay, but some audiobooks won't play.",23,iPhone SE,1.109.6,UK,11.27,Books
+386,WhatsApp,46,2023-11-09,1,Terrible experience. The app doesn't work properly.,4,iPhone SE,5.13.17,Germany,0.0,Social
+387,TikTok,20,2024-08-11,3,"Decent, but needs more content.",37,iPhone X,9.40.19,Mexico,5.33,Entertainment
+388,Clash of Clans,18,2023-09-16,1,Not worth the download. Keeps crashing.,8,iPhone SE,8.124.14,France,8.66,Games
+389,WhatsApp,53,2023-11-13,5,Amazing app! Helps me stay connected with friends and family.,96,iPhone 14,10.90.13,Mexico,0.0,Social
+390,Candy Crush Saga,28,2023-09-30,2,Not worth the download. Keeps crashing.,10,iPhone 14,7.57.8,Canada,18.7,Games
+391,WhatsApp,34,2024-06-23,5,Amazing app! Helps me stay connected with friends and family.,90,iPhone 12,5.139.3,France,9.88,Social
+392,Audible,50,2022-11-12,3,"Great app, but it's a bit pricey.",78,iPhone SE,7.32.18,Canada,0.0,Books
+393,Spotify,58,2023-07-30,5,Love the app! Best place for music.,73,iPhone 13,3.183.15,India,7.87,Music
+394,Candy Crush Saga,40,2024-04-11,3,"Fun, but it gets repetitive after a while.",47,iPhone 14,9.158.20,Australia,9.04,Games
+395,Duolingo,27,2023-06-30,5,Excellent for learning new skills!,92,iPhone 11,2.293.4,India,13.22,Education
+396,Audible,39,2024-05-08,5,Amazing app for audiobooks! Huge selection.,92,iPhone 14,8.106.0,India,14.12,Books
+397,Audible,31,2022-12-14,2,Terrible. Very limited selection of books.,4,iPhone 14,8.98.5,France,14.17,Books
+398,TikTok,51,2022-12-05,2,The app is okay but has too many glitches.,12,iPhone 11,2.77.8,India,4.12,Entertainment
+399,WhatsApp,46,2023-02-08,1,Terrible experience. The app doesn't work properly.,9,iPhone 12,5.127.20,Mexico,11.58,Social
+400,Instagram,47,2023-06-17,2,Could be better. The app crashes frequently.,36,iPhone 11,4.275.20,Australia,13.48,Social
+401,Audible,24,2023-05-21,5,Amazing app for audiobooks! Huge selection.,83,iPhone 11,10.136.16,India,0.0,Books
+402,Spotify,29,2023-06-14,1,Not worth it. Limited music selection.,5,iPhone 11,2.293.2,Germany,0.0,Music
+403,Instagram,42,2023-10-24,1,Terrible experience. The app doesn't work properly.,20,iPhone 11,9.246.1,Australia,0.0,Social
+404,WhatsApp,18,2023-04-02,1,Terrible experience. The app doesn't work properly.,5,iPhone 14,4.45.20,France,0.0,Social
+405,Audible,21,2023-06-17,2,"It's okay, but some audiobooks won't play.",18,iPhone 13,8.271.8,US,13.3,Books
+406,Clash of Clans,29,2023-07-09,1,Not worth the download. Keeps crashing.,18,iPhone 13,4.87.15,France,11.62,Games
+407,TikTok,23,2022-10-20,3,"Decent, but needs more content.",40,iPhone 14,2.207.5,Australia,9.36,Entertainment
+408,Spotify,45,2023-05-17,4,"Great music collection, but needs offline mode.",54,iPhone 12,9.282.6,Germany,14.1,Music
+409,WhatsApp,40,2024-09-08,1,Terrible experience. The app doesn't work properly.,20,iPhone 11,1.122.15,India,13.97,Social
+410,Headspace,18,2023-05-26,1,Not helpful at all. Content is repetitive.,6,iPhone SE,8.95.1,India,0.0,Health
+411,Spotify,59,2023-10-30,5,Love the app! Best place for music.,73,iPhone 12,9.183.10,US,0.0,Music
+412,Headspace,21,2023-11-10,3,Could be better. Some sessions don't work.,40,iPhone 13,7.215.18,India,14.18,Health
+413,Headspace,60,2023-07-02,3,"Decent, but lacks variety in sessions.",51,iPhone 14,4.286.16,Germany,0.0,Health
+414,Clash of Clans,37,2023-02-21,1,Too many ads interrupting the game.,23,iPhone X,7.261.18,Australia,10.2,Games
+415,Duolingo,29,2023-05-07,1,Disappointing. Hard to follow and buggy.,11,iPhone 13,10.23.4,France,7.91,Education
+416,TikTok,35,2022-12-01,1,Terrible! Hard to navigate and slow.,15,iPhone 12,2.217.5,India,9.99,Entertainment
+417,Spotify,43,2023-07-27,1,Not worth it. Limited music selection.,20,iPhone 12,2.98.16,Mexico,0.0,Music
+418,Duolingo,40,2023-04-17,3,"Useful, but some content is outdated.",57,iPhone 12,10.153.20,US,0.0,Education
+419,Spotify,36,2023-07-02,1,Not worth it. Limited music selection.,13,iPhone 11,1.240.17,UK,9.97,Music
+420,Audible,20,2022-11-14,5,Amazing app for audiobooks! Huge selection.,96,iPhone 11,2.227.5,UK,0.0,Books
+421,Clash of Clans,51,2023-12-10,3,"Fun, but it gets repetitive after a while.",57,iPhone SE,6.142.17,UK,0.0,Games
+422,Zoom,36,2023-05-20,4,Perfect for remote meetings! Stable and reliable.,96,iPhone X,6.0.10,France,7.89,Business
+423,Spotify,53,2023-05-08,5,"Great music collection, but needs offline mode.",52,iPhone 14,10.257.2,Canada,0.0,Music
+424,Duolingo,22,2024-03-31,4,"Useful, but some content is outdated.",43,iPhone 13,3.200.0,Germany,6.89,Education
+425,Instagram,24,2024-04-12,1,Terrible experience. The app doesn't work properly.,16,iPhone 13,4.85.3,Australia,0.0,Social
+426,WhatsApp,18,2023-12-08,2,Could be better. The app crashes frequently.,13,iPhone 14,10.49.17,US,0.0,Social
+427,Audible,49,2024-06-22,5,"Great app, but it's a bit pricey.",53,iPhone 13,5.208.15,US,0.0,Books
+428,TikTok,30,2024-05-17,3,"Decent, but needs more content.",36,iPhone 13,5.278.9,Mexico,0.0,Entertainment
+429,Zoom,38,2023-12-11,1,Worst experience. Constantly crashes during meetings.,11,iPhone 11,6.104.9,Canada,7.37,Business
+430,WhatsApp,49,2023-02-21,3,"Great app, but sometimes it lags.",73,iPhone SE,1.81.12,US,0.0,Social
+431,Instagram,28,2023-06-27,4,"Great app, but sometimes it lags.",70,iPhone 12,1.19.20,France,0.0,Social
+432,Audible,58,2023-01-04,3,"Great app, but it's a bit pricey.",79,iPhone X,8.196.13,US,11.35,Books
+433,Candy Crush Saga,35,2022-12-29,5,Super fun and addictive! Can't stop playing.,76,iPhone X,9.33.8,France,0.0,Games
+434,Candy Crush Saga,22,2024-01-13,2,Not worth the download. Keeps crashing.,8,iPhone 13,8.109.2,US,17.24,Games
+435,Zoom,29,2024-09-28,4,"Good app, but has minor bugs.",70,iPhone 14,1.235.14,Canada,10.61,Business
+436,Spotify,45,2023-05-09,4,"Great music collection, but needs offline mode.",61,iPhone X,7.41.20,India,0.0,Music
+437,TikTok,57,2023-08-17,1,Terrible! Hard to navigate and slow.,15,iPhone 11,9.102.3,France,9.2,Entertainment
+438,TikTok,18,2023-11-03,2,"Good app, but the ads are annoying.",60,iPhone SE,5.69.20,US,9.15,Entertainment
+439,Zoom,21,2023-07-02,5,Perfect for remote meetings! Stable and reliable.,78,iPhone 13,5.104.8,Germany,0.0,Business
+440,WhatsApp,20,2023-10-26,4,"Good app, but too many ads.",44,iPhone 14,9.287.7,France,5.55,Social
+441,Headspace,21,2022-12-13,3,Very helpful for meditation and mental health.,98,iPhone SE,1.116.6,India,0.0,Health
+442,Candy Crush Saga,57,2023-06-19,3,"Fun, but it gets repetitive after a while.",56,iPhone SE,1.7.8,UK,19.97,Games
+443,Zoom,25,2024-03-06,3,"Works fine, but the interface could be better.",31,iPhone 14,1.236.0,UK,0.0,Business
+444,Candy Crush Saga,33,2024-01-26,1,Not worth the download. Keeps crashing.,4,iPhone 14,4.49.7,France,14.13,Games
+445,TikTok,28,2024-08-27,4,"Good app, but the ads are annoying.",61,iPhone 11,8.76.7,US,0.0,Entertainment
+446,Clash of Clans,37,2022-11-04,5,Super fun and addictive! Can't stop playing.,83,iPhone 12,8.3.6,UK,18.37,Games
+447,Candy Crush Saga,23,2024-09-28,3,Too many ads interrupting the game.,18,iPhone 14,7.238.12,Germany,15.91,Games
+448,Headspace,32,2022-11-26,5,Very helpful for meditation and mental health.,82,iPhone 11,2.53.18,Germany,0.0,Health
+449,WhatsApp,40,2024-02-09,2,Terrible experience. The app doesn't work properly.,15,iPhone 13,6.64.10,Canada,0.0,Social
+450,Candy Crush Saga,60,2022-12-17,1,Not worth the download. Keeps crashing.,10,iPhone 12,4.280.0,France,10.99,Games
+451,TikTok,21,2023-04-30,1,The app is okay but has too many glitches.,24,iPhone X,1.261.13,UK,0.0,Entertainment
+452,Duolingo,60,2023-12-17,1,Not engaging enough. Needs more updates.,18,iPhone SE,10.2.5,Australia,8.89,Education
+453,Clash of Clans,26,2022-12-16,1,Not worth the download. Keeps crashing.,7,iPhone 12,5.198.8,US,17.58,Games
+454,Candy Crush Saga,53,2023-01-29,3,"Fun, but it gets repetitive after a while.",51,iPhone 12,6.274.4,US,7.75,Games
+455,Headspace,57,2024-01-29,1,Not helpful at all. Content is repetitive.,3,iPhone SE,7.267.17,Mexico,0.0,Health
+456,Candy Crush Saga,24,2024-02-15,4,"Fun, but it gets repetitive after a while.",57,iPhone 13,4.180.20,Germany,12.58,Games
+457,Spotify,46,2023-04-20,4,"Great music collection, but needs offline mode.",60,iPhone 14,6.277.15,Mexico,8.52,Music
+458,Headspace,38,2024-02-25,4,"Decent, but lacks variety in sessions.",38,iPhone 13,1.300.8,US,9.84,Health
+459,Clash of Clans,38,2024-03-16,4,"Great game, but too many in-game purchases.",60,iPhone 12,1.78.1,US,0.0,Games
+460,Candy Crush Saga,25,2023-01-27,2,Not worth the download. Keeps crashing.,6,iPhone 14,2.4.3,Germany,0.0,Games
+461,Headspace,44,2023-08-28,2,Could be better. Some sessions don't work.,33,iPhone 14,3.282.20,Australia,0.0,Health
+462,Candy Crush Saga,57,2023-01-17,2,Too many ads interrupting the game.,21,iPhone 11,8.265.0,Mexico,12.59,Games
+463,TikTok,42,2023-05-07,3,"Decent, but needs more content.",33,iPhone 13,3.256.14,US,5.4,Entertainment
+464,Clash of Clans,42,2024-09-30,1,Not worth the download. Keeps crashing.,5,iPhone SE,1.107.10,US,0.0,Games
+465,Headspace,39,2022-10-15,4,Very helpful for meditation and mental health.,90,iPhone X,7.258.10,India,0.0,Health
+466,Instagram,19,2024-02-24,5,Amazing app! Helps me stay connected with friends and family.,74,iPhone 13,3.262.14,Australia,0.0,Social
+467,TikTok,34,2023-02-20,3,"Decent, but needs more content.",55,iPhone 11,4.295.15,Mexico,4.74,Entertainment
+468,Candy Crush Saga,35,2024-05-29,4,Super fun and addictive! Can't stop playing.,75,iPhone SE,10.176.15,Canada,0.0,Games
+469,WhatsApp,41,2023-04-20,3,"Great app, but sometimes it lags.",68,iPhone SE,7.102.17,US,5.86,Social
+470,WhatsApp,27,2023-10-13,1,"Good app, but too many ads.",49,iPhone X,1.144.14,France,10.5,Social
+471,Headspace,50,2023-08-23,5,Very helpful for meditation and mental health.,72,iPhone 14,5.21.10,UK,8.83,Health
+472,TikTok,39,2023-03-22,2,"Good app, but the ads are annoying.",51,iPhone SE,6.168.3,Mexico,4.09,Entertainment
+473,Headspace,49,2023-05-03,2,Not helpful at all. Content is repetitive.,8,iPhone 14,4.185.0,Mexico,0.0,Health
+474,Candy Crush Saga,56,2023-05-28,2,Not worth the download. Keeps crashing.,19,iPhone 13,2.88.9,UK,11.23,Games
+475,TikTok,57,2023-02-10,1,Terrible! Hard to navigate and slow.,3,iPhone 12,10.290.18,France,0.0,Entertainment
+476,Instagram,34,2024-04-09,1,Terrible experience. The app doesn't work properly.,13,iPhone 11,8.150.10,US,0.0,Social
+477,Zoom,35,2024-05-24,2,Worst experience. Constantly crashes during meetings.,14,iPhone 14,10.28.16,India,0.0,Business
+478,Instagram,31,2023-02-26,1,Terrible experience. The app doesn't work properly.,6,iPhone 13,10.34.20,UK,14.16,Social
+479,Spotify,54,2023-01-20,1,Not worth it. Limited music selection.,9,iPhone 13,7.53.13,France,0.0,Music
+480,WhatsApp,43,2023-09-07,5,Amazing app! Helps me stay connected with friends and family.,78,iPhone 12,5.288.0,UK,11.65,Social
+481,TikTok,52,2023-05-22,1,"Decent, but needs more content.",60,iPhone X,8.280.16,France,4.3,Entertainment
+482,TikTok,28,2024-06-03,4,"Good app, but the ads are annoying.",80,iPhone 12,8.0.7,US,7.42,Entertainment
+483,Headspace,40,2023-04-04,3,Could be better. Some sessions don't work.,15,iPhone 14,8.192.9,France,0.0,Health
+484,Headspace,38,2023-01-07,3,"Decent, but lacks variety in sessions.",47,iPhone 12,1.89.14,Australia,7.73,Health
+485,Duolingo,25,2023-05-22,3,"Useful, but some content is outdated.",36,iPhone 11,1.294.16,France,5.75,Education
+486,Instagram,23,2024-07-19,2,Could be better. The app crashes frequently.,31,iPhone 11,6.101.5,France,0.0,Social
+487,Zoom,56,2024-02-28,4,"Good app, but has minor bugs.",57,iPhone 11,9.46.17,US,14.16,Business
+488,Clash of Clans,50,2023-08-20,5,Super fun and addictive! Can't stop playing.,100,iPhone 13,10.173.4,India,11.28,Games
+489,TikTok,42,2023-05-10,3,"Decent, but needs more content.",32,iPhone 12,3.114.2,UK,0.0,Entertainment
+490,Instagram,27,2024-02-15,4,"Great app, but sometimes it lags.",68,iPhone 12,6.14.2,France,0.0,Social
+491,Audible,23,2023-02-01,5,Amazing app for audiobooks! Huge selection.,97,iPhone 12,3.22.3,Canada,0.0,Books
+492,Instagram,31,2023-03-02,3,Could be better. The app crashes frequently.,11,iPhone 13,3.274.5,US,9.44,Social
+493,Candy Crush Saga,53,2023-10-04,1,Not worth the download. Keeps crashing.,8,iPhone 12,7.129.5,Germany,13.31,Games
+494,Clash of Clans,29,2023-10-24,2,Too many ads interrupting the game.,39,iPhone 13,6.19.0,Australia,10.74,Games
+495,Zoom,33,2023-09-15,1,Worst experience. Constantly crashes during meetings.,14,iPhone 12,8.105.16,France,10.08,Business
+496,Headspace,18,2022-11-09,4,"Good, but the premium content is expensive.",67,iPhone 11,1.250.7,Canada,12.76,Health
+497,Audible,38,2023-06-16,3,Amazing app for audiobooks! Huge selection.,81,iPhone X,2.235.17,Mexico,0.0,Books
+498,Candy Crush Saga,44,2023-06-24,3,"Fun, but it gets repetitive after a while.",43,iPhone 12,8.108.3,India,9.09,Games
+499,Clash of Clans,39,2023-01-26,3,Super fun and addictive! Can't stop playing.,78,iPhone SE,7.174.18,France,13.9,Games
+500,WhatsApp,19,2024-02-03,2,"Good app, but too many ads.",52,iPhone X,6.271.0,Germany,6.91,Social
+501,Clash of Clans,23,2024-04-10,3,"Fun, but it gets repetitive after a while.",30,iPhone 11,1.116.6,Germany,6.76,Games
+502,Headspace,35,2023-10-12,4,"Good, but the premium content is expensive.",60,iPhone 13,5.242.16,UK,10.53,Health
+503,Clash of Clans,50,2024-01-17,4,"Great game, but too many in-game purchases.",58,iPhone 11,1.151.1,US,6.68,Games
+504,Candy Crush Saga,59,2023-03-07,2,Too many ads interrupting the game.,20,iPhone 14,5.141.7,Mexico,0.0,Games
+505,Headspace,33,2024-04-07,5,Very helpful for meditation and mental health.,76,iPhone 11,2.51.19,Mexico,0.0,Health
+506,Instagram,54,2023-06-02,4,Amazing app! Helps me stay connected with friends and family.,92,iPhone X,8.188.5,UK,0.0,Social
+507,TikTok,44,2024-04-25,5,Awesome app! Best entertainment content.,90,iPhone 14,4.295.20,India,7.7,Entertainment
+508,Headspace,41,2024-04-25,4,"Good, but the premium content is expensive.",75,iPhone 11,8.49.3,Germany,11.47,Health
+509,WhatsApp,35,2023-04-29,2,Could be better. The app crashes frequently.,35,iPhone 11,2.33.8,UK,0.0,Social
+510,Candy Crush Saga,38,2024-02-03,1,Not worth the download. Keeps crashing.,8,iPhone X,8.251.3,Mexico,7.61,Games
+511,Audible,49,2024-04-06,3,"Good, but needs more features for listeners.",54,iPhone 13,8.257.18,Australia,0.0,Books
+512,Clash of Clans,50,2023-02-25,1,Not worth the download. Keeps crashing.,8,iPhone 12,8.12.0,France,14.36,Games
+513,Spotify,46,2024-01-10,5,"Great music collection, but needs offline mode.",53,iPhone 14,5.238.13,UK,8.26,Music
+514,Headspace,57,2024-09-11,1,Not helpful at all. Content is repetitive.,14,iPhone 13,6.257.0,France,13.92,Health
+515,Headspace,34,2023-06-04,3,Could be better. Some sessions don't work.,39,iPhone 13,6.155.9,Canada,9.23,Health
+516,Zoom,51,2024-07-03,3,"Works fine, but the interface could be better.",57,iPhone 12,4.194.19,Australia,12.07,Business
+517,Candy Crush Saga,20,2023-05-29,1,Not worth the download. Keeps crashing.,5,iPhone 12,10.104.15,Germany,0.0,Games
+518,Audible,30,2022-12-14,5,Amazing app for audiobooks! Huge selection.,83,iPhone 11,8.81.15,Germany,8.92,Books
+519,Duolingo,54,2023-12-16,1,Not engaging enough. Needs more updates.,14,iPhone X,6.167.9,UK,11.88,Education
+520,Candy Crush Saga,21,2023-06-26,2,Too many ads interrupting the game.,30,iPhone 13,1.203.18,Germany,10.73,Games
+521,Clash of Clans,28,2023-12-21,1,Not worth the download. Keeps crashing.,15,iPhone 12,8.205.3,Canada,7.81,Games
+522,Duolingo,30,2024-10-03,3,"Useful, but some content is outdated.",33,iPhone 14,2.17.6,UK,0.0,Education
+523,Candy Crush Saga,50,2024-01-14,3,Too many ads interrupting the game.,17,iPhone 13,1.194.4,Australia,0.0,Games
+524,Instagram,22,2023-07-24,1,Terrible experience. The app doesn't work properly.,20,iPhone 12,10.192.3,Mexico,0.0,Social
+525,WhatsApp,30,2023-10-07,3,"Good app, but too many ads.",47,iPhone 11,7.298.19,Mexico,12.92,Social
+526,Headspace,49,2024-08-15,1,Not helpful at all. Content is repetitive.,15,iPhone 12,6.212.2,Mexico,0.0,Health
+527,Instagram,37,2023-06-01,4,"Good app, but too many ads.",30,iPhone 14,9.241.20,Mexico,0.0,Social
+528,Spotify,38,2023-11-03,3,"Good, but has connection issues sometimes.",41,iPhone 14,1.279.2,Australia,0.0,Music
+529,Instagram,41,2024-03-21,1,Could be better. The app crashes frequently.,26,iPhone SE,9.150.3,Germany,6.77,Social
+530,Candy Crush Saga,40,2024-04-08,5,Super fun and addictive! Can't stop playing.,76,iPhone 12,5.127.13,Canada,0.0,Games
+531,Instagram,55,2024-10-06,3,"Good app, but too many ads.",44,iPhone 13,6.218.19,US,0.0,Social
+532,Candy Crush Saga,57,2023-12-26,3,"Fun, but it gets repetitive after a while.",42,iPhone 11,10.124.19,Australia,14.57,Games
+533,WhatsApp,52,2024-02-11,5,Amazing app! Helps me stay connected with friends and family.,79,iPhone 12,5.212.11,US,0.0,Social
+534,Headspace,49,2023-10-15,5,Very helpful for meditation and mental health.,94,iPhone 12,2.90.13,Australia,0.0,Health
+535,WhatsApp,32,2023-12-25,2,"Good app, but too many ads.",36,iPhone X,9.3.7,Mexico,6.86,Social
+536,Clash of Clans,49,2023-01-28,1,Not worth the download. Keeps crashing.,10,iPhone SE,3.253.18,UK,15.28,Games
+537,Duolingo,55,2024-01-28,4,"Good educational app, but can be improved.",61,iPhone 11,2.137.16,Germany,0.0,Education
+538,Spotify,24,2022-12-14,2,Not worth it. Limited music selection.,10,iPhone 14,2.19.8,Australia,0.0,Music
+539,Candy Crush Saga,41,2022-12-01,2,Not worth the download. Keeps crashing.,14,iPhone 13,7.98.5,Australia,0.0,Games
+540,Instagram,41,2024-08-03,1,Terrible experience. The app doesn't work properly.,4,iPhone 12,2.259.0,UK,11.01,Social
+541,Candy Crush Saga,49,2024-01-24,1,"Fun, but it gets repetitive after a while.",43,iPhone X,4.41.13,India,8.01,Games
+542,Candy Crush Saga,37,2024-03-28,4,"Great game, but too many in-game purchases.",51,iPhone 13,3.12.12,Germany,13.9,Games
+543,Instagram,45,2023-12-11,1,Terrible experience. The app doesn't work properly.,15,iPhone 14,4.297.3,Canada,0.0,Social
+544,Spotify,47,2023-12-08,1,"The app is okay, but it crashes often.",19,iPhone X,4.154.12,France,0.0,Music
+545,Instagram,37,2022-12-21,3,"Good app, but too many ads.",55,iPhone SE,10.154.9,Mexico,8.93,Social
+546,Instagram,39,2024-07-01,5,Amazing app! Helps me stay connected with friends and family.,99,iPhone 13,8.230.3,India,0.0,Social
+547,TikTok,25,2024-06-15,3,"Decent, but needs more content.",40,iPhone 11,6.3.7,Canada,5.03,Entertainment
+548,Candy Crush Saga,60,2024-04-17,4,"Great game, but too many in-game purchases.",64,iPhone 11,4.300.7,India,18.97,Games
+549,Headspace,35,2023-10-18,2,Could be better. Some sessions don't work.,21,iPhone X,8.69.4,Germany,5.47,Health
+550,Duolingo,46,2022-11-12,2,Not engaging enough. Needs more updates.,26,iPhone 14,10.257.3,UK,0.0,Education
+551,Zoom,23,2024-04-21,2,Worst experience. Constantly crashes during meetings.,4,iPhone 14,6.96.18,Canada,12.84,Business
+552,Spotify,18,2024-02-15,5,Love the app! Best place for music.,79,iPhone 13,4.35.12,Mexico,10.06,Music
+553,Instagram,19,2022-11-16,5,Amazing app! Helps me stay connected with friends and family.,95,iPhone 13,6.134.5,India,0.0,Social
+554,WhatsApp,47,2023-10-08,5,"Great app, but sometimes it lags.",66,iPhone 13,1.231.5,Canada,0.0,Social
+555,Audible,54,2023-06-08,4,"Great app, but it's a bit pricey.",53,iPhone 13,9.187.9,France,0.0,Books
+556,Instagram,46,2022-12-07,4,"Great app, but sometimes it lags.",72,iPhone X,1.88.7,India,0.0,Social
+557,Zoom,36,2023-08-17,4,"Good app, but has minor bugs.",52,iPhone 14,7.236.17,Canada,0.0,Business
+558,WhatsApp,35,2024-07-16,5,Amazing app! Helps me stay connected with friends and family.,87,iPhone 11,8.94.9,Australia,8.44,Social
+559,Instagram,30,2024-04-30,2,Terrible experience. The app doesn't work properly.,10,iPhone 14,9.198.8,Australia,0.0,Social
+560,Audible,21,2023-09-16,4,"Great app, but it's a bit pricey.",55,iPhone SE,10.272.17,Mexico,0.0,Books
+561,Duolingo,52,2022-12-05,5,Excellent for learning new skills!,95,iPhone 14,3.31.10,US,0.0,Education
+562,Candy Crush Saga,40,2024-03-23,2,Too many ads interrupting the game.,15,iPhone 11,7.73.0,France,9.22,Games
+563,WhatsApp,37,2023-02-10,1,Terrible experience. The app doesn't work properly.,19,iPhone SE,7.123.11,US,0.0,Social
+564,Zoom,21,2024-08-09,5,Perfect for remote meetings! Stable and reliable.,82,iPhone 12,10.154.9,Australia,0.0,Business
+565,Instagram,55,2023-03-02,2,Could be better. The app crashes frequently.,18,iPhone 11,9.88.16,Germany,0.0,Social
+566,Instagram,34,2023-04-26,4,"Great app, but sometimes it lags.",61,iPhone SE,1.179.1,Canada,12.35,Social
+567,Zoom,58,2024-06-09,3,"Works fine, but the interface could be better.",38,iPhone SE,3.161.7,Mexico,0.0,Business
+568,Duolingo,27,2022-10-10,2,Disappointing. Hard to follow and buggy.,8,iPhone 13,6.282.15,Germany,0.0,Education
+569,Duolingo,45,2023-12-22,2,"Good educational app, but can be improved.",80,iPhone X,3.56.17,Germany,0.0,Education
+570,Zoom,27,2024-02-08,3,Perfect for remote meetings! Stable and reliable.,95,iPhone X,1.251.13,France,0.0,Business
+571,Instagram,18,2023-12-18,1,Terrible experience. The app doesn't work properly.,16,iPhone SE,5.218.15,India,6.14,Social
+572,Headspace,54,2023-06-14,3,"Decent, but lacks variety in sessions.",34,iPhone 13,8.86.15,Australia,0.0,Health
+573,Candy Crush Saga,34,2023-10-04,2,Too many ads interrupting the game.,19,iPhone 11,5.290.16,UK,10.29,Games
+574,Headspace,38,2023-07-24,2,Could be better. Some sessions don't work.,12,iPhone SE,9.111.9,UK,0.0,Health
+575,Headspace,54,2024-03-17,2,"Good, but the premium content is expensive.",75,iPhone X,4.22.13,Mexico,0.0,Health
+576,TikTok,38,2024-01-04,3,"Decent, but needs more content.",50,iPhone 11,3.300.6,Canada,0.0,Entertainment
+577,WhatsApp,38,2023-11-15,4,"Great app, but sometimes it lags.",68,iPhone 13,9.55.18,US,0.0,Social
+578,WhatsApp,33,2023-01-07,5,Amazing app! Helps me stay connected with friends and family.,81,iPhone 14,7.26.18,Germany,6.36,Social
+579,Spotify,35,2024-01-28,2,"The app is okay, but it crashes often.",20,iPhone 13,10.63.12,India,0.0,Music
+580,Clash of Clans,42,2023-05-14,3,"Fun, but it gets repetitive after a while.",34,iPhone 12,2.100.16,France,16.0,Games
+581,TikTok,51,2024-06-29,4,"Decent, but needs more content.",49,iPhone 13,7.209.3,India,0.0,Entertainment
+582,Instagram,38,2022-11-28,4,"Good app, but too many ads.",42,iPhone 13,1.162.4,UK,11.51,Social
+583,Clash of Clans,20,2023-03-25,3,"Great game, but too many in-game purchases.",80,iPhone SE,4.273.12,US,10.51,Games
+584,WhatsApp,44,2024-09-26,1,Could be better. The app crashes frequently.,34,iPhone SE,4.200.11,UK,0.0,Social
+585,WhatsApp,40,2023-05-04,5,Amazing app! Helps me stay connected with friends and family.,88,iPhone 12,6.137.12,UK,0.0,Social
+586,TikTok,29,2023-08-12,4,Awesome app! Best entertainment content.,92,iPhone X,3.192.6,Mexico,4.45,Entertainment
+587,Instagram,27,2024-09-08,1,Could be better. The app crashes frequently.,12,iPhone X,10.143.10,Australia,8.08,Social
+588,Spotify,41,2023-05-31,5,Love the app! Best place for music.,85,iPhone 13,4.79.6,France,14.48,Music
+589,Candy Crush Saga,36,2024-10-02,2,Too many ads interrupting the game.,32,iPhone 11,3.73.12,Australia,0.0,Games
+590,Clash of Clans,50,2024-08-16,3,Super fun and addictive! Can't stop playing.,71,iPhone X,7.201.12,US,5.2,Games
+591,Zoom,30,2022-11-17,1,Worst experience. Constantly crashes during meetings.,2,iPhone SE,3.64.17,US,8.08,Business
+592,Headspace,42,2023-03-20,2,"Good, but the premium content is expensive.",69,iPhone SE,9.93.5,Canada,0.0,Health
+593,Candy Crush Saga,49,2023-12-24,2,Too many ads interrupting the game.,34,iPhone 12,6.240.13,UK,0.0,Games
+594,Instagram,31,2023-11-21,3,Could be better. The app crashes frequently.,36,iPhone 13,2.204.5,Germany,0.0,Social
+595,Clash of Clans,22,2024-01-21,3,"Great game, but too many in-game purchases.",61,iPhone X,3.93.1,Germany,18.03,Games
+596,Duolingo,59,2023-01-23,3,"Useful, but some content is outdated.",50,iPhone 12,10.131.14,Mexico,0.0,Education
+597,Candy Crush Saga,30,2023-05-04,3,"Fun, but it gets repetitive after a while.",47,iPhone 11,8.243.0,US,0.0,Games
+598,Audible,38,2023-08-23,1,"It's okay, but some audiobooks won't play.",39,iPhone X,1.102.1,Mexico,10.7,Books
+599,Spotify,42,2022-12-20,5,"Great music collection, but needs offline mode.",68,iPhone 14,7.14.14,Australia,0.0,Music
+600,Instagram,45,2023-06-20,3,Could be better. The app crashes frequently.,16,iPhone 13,10.276.4,Canada,5.04,Social
+601,Clash of Clans,42,2023-02-27,5,"Great game, but too many in-game purchases.",52,iPhone 13,1.155.7,US,0.0,Games
+602,Headspace,32,2023-10-22,1,Not helpful at all. Content is repetitive.,19,iPhone 11,10.100.15,Mexico,0.0,Health
+603,Spotify,55,2024-08-07,3,"Great music collection, but needs offline mode.",79,iPhone SE,9.247.10,UK,11.93,Music
+604,WhatsApp,38,2022-10-29,1,Terrible experience. The app doesn't work properly.,19,iPhone SE,4.283.11,Mexico,0.0,Social
+605,Instagram,24,2024-07-02,4,"Great app, but sometimes it lags.",61,iPhone 14,2.48.16,UK,0.0,Social
+606,Duolingo,57,2024-08-09,3,"Useful, but some content is outdated.",59,iPhone X,8.70.18,Germany,0.0,Education
+607,WhatsApp,37,2022-12-12,3,"Good app, but too many ads.",47,iPhone 11,3.231.1,UK,14.31,Social
+608,Headspace,44,2024-01-20,4,"Decent, but lacks variety in sessions.",45,iPhone 14,4.11.5,India,0.0,Health
+609,Zoom,46,2024-05-10,3,"Works fine, but the interface could be better.",53,iPhone X,9.117.13,US,0.0,Business
+610,Candy Crush Saga,46,2024-01-04,4,"Great game, but too many in-game purchases.",61,iPhone SE,8.193.5,France,13.84,Games
+611,Spotify,41,2022-10-18,5,Love the app! Best place for music.,83,iPhone 14,8.207.1,France,7.34,Music
+612,Headspace,54,2024-03-29,3,Very helpful for meditation and mental health.,93,iPhone SE,5.202.14,India,0.0,Health
+613,Candy Crush Saga,32,2024-03-26,1,Not worth the download. Keeps crashing.,17,iPhone 12,4.1.18,Australia,0.0,Games
+614,WhatsApp,36,2022-10-25,3,"Good app, but too many ads.",51,iPhone 11,8.122.8,Australia,7.05,Social
+615,Clash of Clans,52,2023-10-03,2,Too many ads interrupting the game.,12,iPhone 13,3.164.19,Canada,6.65,Games
+616,Instagram,29,2023-09-13,1,Terrible experience. The app doesn't work properly.,11,iPhone 12,3.42.13,Australia,9.41,Social
+617,Duolingo,55,2024-02-28,1,Disappointing. Hard to follow and buggy.,5,iPhone SE,1.264.20,Mexico,0.0,Education
+618,WhatsApp,38,2023-05-10,3,"Great app, but sometimes it lags.",60,iPhone SE,6.153.6,Canada,0.0,Social
+619,Instagram,46,2023-08-13,3,"Good app, but too many ads.",35,iPhone X,1.174.12,Canada,12.85,Social
+620,Headspace,43,2023-05-11,5,Very helpful for meditation and mental health.,95,iPhone 14,8.160.13,Mexico,0.0,Health
+621,Spotify,34,2024-09-06,2,"The app is okay, but it crashes often.",17,iPhone 11,7.286.1,India,13.0,Music
+622,WhatsApp,44,2023-02-25,1,Terrible experience. The app doesn't work properly.,16,iPhone 13,3.188.4,France,0.0,Social
+623,WhatsApp,42,2022-11-23,2,Could be better. The app crashes frequently.,20,iPhone 13,7.210.1,US,12.96,Social
+624,Zoom,47,2023-11-16,5,Perfect for remote meetings! Stable and reliable.,71,iPhone 14,4.190.10,US,0.0,Business
+625,Spotify,27,2023-09-19,1,"The app is okay, but it crashes often.",21,iPhone SE,2.100.16,US,0.0,Music
+626,TikTok,52,2024-08-21,4,"Good app, but the ads are annoying.",70,iPhone 11,1.281.1,India,8.96,Entertainment
+627,Clash of Clans,33,2023-10-10,3,"Fun, but it gets repetitive after a while.",49,iPhone X,4.135.20,US,15.45,Games
+628,TikTok,49,2024-04-01,3,"Decent, but needs more content.",36,iPhone 12,4.174.15,Canada,0.0,Entertainment
+629,Instagram,25,2024-06-24,1,Terrible experience. The app doesn't work properly.,10,iPhone SE,6.91.6,US,0.0,Social
+630,Headspace,28,2023-01-06,1,Not helpful at all. Content is repetitive.,11,iPhone 14,2.50.20,UK,10.64,Health
+631,TikTok,21,2023-02-10,5,Awesome app! Best entertainment content.,74,iPhone 11,5.18.17,Australia,9.05,Entertainment
+632,Clash of Clans,57,2023-11-08,5,Super fun and addictive! Can't stop playing.,89,iPhone 11,10.292.4,France,8.64,Games
+633,Duolingo,48,2023-07-02,1,Disappointing. Hard to follow and buggy.,10,iPhone SE,10.257.14,Mexico,7.93,Education
+634,Candy Crush Saga,32,2023-09-23,2,Too many ads interrupting the game.,39,iPhone 12,6.88.14,Australia,0.0,Games
+635,Candy Crush Saga,50,2023-03-02,5,Super fun and addictive! Can't stop playing.,74,iPhone 13,8.88.20,Canada,0.0,Games
+636,Instagram,47,2023-02-23,1,Terrible experience. The app doesn't work properly.,1,iPhone 11,10.169.2,France,0.0,Social
+637,Spotify,49,2023-07-01,4,"Great music collection, but needs offline mode.",54,iPhone 11,4.192.17,India,12.98,Music
+638,Instagram,23,2023-05-05,1,Terrible experience. The app doesn't work properly.,3,iPhone 11,5.5.11,Germany,0.0,Social
+639,Instagram,54,2024-05-05,4,"Good app, but too many ads.",41,iPhone 14,2.256.5,UK,10.17,Social
+640,Headspace,47,2022-11-18,4,"Good, but the premium content is expensive.",70,iPhone 14,1.115.20,Germany,0.0,Health
+641,WhatsApp,37,2023-12-24,1,Terrible experience. The app doesn't work properly.,5,iPhone 12,7.189.1,UK,0.0,Social
+642,Zoom,58,2023-02-13,5,Perfect for remote meetings! Stable and reliable.,87,iPhone 11,8.55.20,Canada,0.0,Business
+643,Candy Crush Saga,37,2022-12-22,2,"Great game, but too many in-game purchases.",76,iPhone SE,9.205.0,US,12.27,Games
+644,Clash of Clans,20,2023-12-31,1,"Fun, but it gets repetitive after a while.",51,iPhone SE,8.270.17,India,6.57,Games
+645,Duolingo,27,2024-03-19,1,Disappointing. Hard to follow and buggy.,13,iPhone X,9.217.19,US,0.0,Education
+646,WhatsApp,37,2023-06-07,2,Could be better. The app crashes frequently.,27,iPhone 12,2.136.12,Australia,14.15,Social
+647,WhatsApp,54,2022-11-13,4,Amazing app! Helps me stay connected with friends and family.,100,iPhone SE,4.116.9,India,0.0,Social
+648,Instagram,50,2023-06-12,4,"Good app, but too many ads.",30,iPhone 13,5.212.15,Australia,0.0,Social
+649,Audible,26,2024-05-12,2,"It's okay, but some audiobooks won't play.",16,iPhone SE,6.156.0,Australia,8.01,Books
+650,Zoom,56,2023-03-11,2,Keeps disconnecting during calls.,14,iPhone 12,5.296.1,Mexico,7.17,Business
+651,Spotify,60,2022-12-08,3,"Good, but has connection issues sometimes.",33,iPhone 12,7.286.5,India,0.0,Music
+652,Candy Crush Saga,31,2022-12-25,1,Not worth the download. Keeps crashing.,17,iPhone X,10.27.17,India,9.17,Games
+653,Spotify,18,2023-12-12,2,"The app is okay, but it crashes often.",10,iPhone 14,10.273.8,Mexico,14.1,Music
+654,Candy Crush Saga,23,2022-10-23,3,"Fun, but it gets repetitive after a while.",54,iPhone 13,10.221.8,Germany,0.0,Games
+655,Audible,19,2023-05-07,1,Terrible. Very limited selection of books.,20,iPhone X,8.271.13,Canada,12.1,Books
+656,WhatsApp,25,2024-05-13,3,Amazing app! Helps me stay connected with friends and family.,85,iPhone SE,3.283.2,Australia,0.0,Social
+657,Duolingo,43,2023-03-09,3,"Useful, but some content is outdated.",59,iPhone X,3.23.1,US,0.0,Education
+658,Headspace,37,2024-10-01,3,"Decent, but lacks variety in sessions.",59,iPhone SE,6.89.7,India,9.51,Health
+659,Duolingo,18,2024-01-16,4,"Good educational app, but can be improved.",75,iPhone 14,6.113.5,UK,0.0,Education
+660,Spotify,34,2023-08-29,1,Not worth it. Limited music selection.,10,iPhone SE,8.135.7,Germany,11.24,Music
+661,Audible,49,2024-05-08,4,"Great app, but it's a bit pricey.",78,iPhone 11,3.101.19,Germany,0.0,Books
+662,Duolingo,53,2023-04-01,2,Not engaging enough. Needs more updates.,17,iPhone 12,1.130.11,Germany,0.0,Education
+663,Headspace,40,2023-05-27,1,Not helpful at all. Content is repetitive.,15,iPhone X,7.156.7,US,0.0,Health
+664,Instagram,49,2023-08-18,2,Could be better. The app crashes frequently.,11,iPhone SE,9.151.7,France,0.0,Social
+665,Instagram,34,2023-05-07,4,"Great app, but sometimes it lags.",77,iPhone 14,8.92.10,Canada,0.0,Social
+666,Instagram,54,2023-03-09,2,Terrible experience. The app doesn't work properly.,13,iPhone 13,7.243.12,Mexico,0.0,Social
+667,Candy Crush Saga,31,2024-02-18,4,"Great game, but too many in-game purchases.",72,iPhone 14,3.116.3,France,7.3,Games
+668,Candy Crush Saga,24,2024-08-08,2,Not worth the download. Keeps crashing.,12,iPhone 13,4.169.7,Australia,17.8,Games
+669,Duolingo,47,2023-08-21,5,Excellent for learning new skills!,74,iPhone 13,8.121.9,India,10.54,Education
+670,Instagram,29,2023-09-09,2,Terrible experience. The app doesn't work properly.,0,iPhone 13,6.44.8,India,0.0,Social
+671,Instagram,45,2024-01-21,5,"Great app, but sometimes it lags.",50,iPhone 13,5.56.14,Mexico,0.0,Social
+672,Spotify,48,2024-05-14,1,Not worth it. Limited music selection.,0,iPhone 12,7.246.1,India,8.21,Music
+673,Candy Crush Saga,37,2023-08-20,2,Too many ads interrupting the game.,19,iPhone 12,7.103.16,Mexico,5.79,Games
+674,Spotify,42,2023-08-23,2,"The app is okay, but it crashes often.",11,iPhone 13,5.228.3,Germany,0.0,Music
+675,WhatsApp,43,2024-06-13,3,Could be better. The app crashes frequently.,14,iPhone 13,4.218.20,UK,8.98,Social
+676,Instagram,47,2023-11-18,1,Terrible experience. The app doesn't work properly.,9,iPhone 12,10.193.3,Canada,8.34,Social
+677,TikTok,35,2023-06-17,1,Terrible! Hard to navigate and slow.,16,iPhone 12,6.58.6,US,0.0,Entertainment
+678,Clash of Clans,49,2024-03-22,5,Super fun and addictive! Can't stop playing.,72,iPhone 14,10.126.0,Germany,14.94,Games
+679,Instagram,34,2024-02-13,1,Could be better. The app crashes frequently.,37,iPhone X,7.296.16,India,6.43,Social
+680,Zoom,41,2024-03-13,4,Perfect for remote meetings! Stable and reliable.,76,iPhone SE,10.193.4,India,0.0,Business
+681,Duolingo,26,2024-07-01,1,Disappointing. Hard to follow and buggy.,0,iPhone 12,1.273.5,US,5.1,Education
+682,TikTok,58,2022-12-22,1,Terrible! Hard to navigate and slow.,15,iPhone 12,8.216.13,Mexico,0.0,Entertainment
+683,Zoom,37,2024-02-23,1,Worst experience. Constantly crashes during meetings.,14,iPhone 11,1.45.0,Germany,11.35,Business
+684,TikTok,50,2023-12-14,3,Awesome app! Best entertainment content.,74,iPhone X,10.294.12,Canada,4.93,Entertainment
+685,Candy Crush Saga,56,2023-05-28,5,Super fun and addictive! Can't stop playing.,96,iPhone 12,8.115.10,Germany,0.0,Games
+686,Candy Crush Saga,54,2023-06-05,3,"Fun, but it gets repetitive after a while.",41,iPhone 12,3.66.14,Australia,0.0,Games
+687,Headspace,27,2023-04-09,5,Very helpful for meditation and mental health.,86,iPhone 11,9.93.18,India,0.0,Health
+688,Duolingo,59,2024-02-20,4,Excellent for learning new skills!,94,iPhone SE,8.237.20,Australia,7.12,Education
+689,Clash of Clans,31,2023-09-05,3,Too many ads interrupting the game.,38,iPhone 13,8.293.0,Germany,0.0,Games
+690,Zoom,50,2023-01-14,1,Worst experience. Constantly crashes during meetings.,6,iPhone 13,8.127.6,US,0.0,Business
+691,Zoom,33,2024-08-10,2,Keeps disconnecting during calls.,39,iPhone 13,10.281.12,Germany,0.0,Business
+692,Spotify,34,2023-04-22,1,Not worth it. Limited music selection.,12,iPhone SE,8.242.5,France,0.0,Music
+693,Candy Crush Saga,45,2022-11-28,1,Too many ads interrupting the game.,20,iPhone X,5.294.17,US,13.84,Games
+694,Clash of Clans,32,2024-07-18,1,Too many ads interrupting the game.,15,iPhone X,10.117.13,Germany,11.17,Games
+695,WhatsApp,34,2022-12-20,4,"Great app, but sometimes it lags.",79,iPhone 12,4.233.4,Australia,8.99,Social
+696,Candy Crush Saga,40,2022-11-16,2,Too many ads interrupting the game.,34,iPhone 11,3.118.17,Germany,16.59,Games
+697,Duolingo,35,2023-03-04,4,"Good educational app, but can be improved.",61,iPhone 13,9.163.16,UK,0.0,Education
+698,Duolingo,39,2024-05-23,3,Not engaging enough. Needs more updates.,35,iPhone 14,7.146.17,Germany,8.91,Education
+699,Audible,48,2024-05-07,2,"It's okay, but some audiobooks won't play.",19,iPhone 11,6.243.12,Mexico,9.65,Books
+700,Headspace,54,2024-07-01,1,Not helpful at all. Content is repetitive.,15,iPhone X,6.236.0,US,0.0,Health
+701,Headspace,27,2024-06-18,1,Not helpful at all. Content is repetitive.,2,iPhone 14,9.134.13,Australia,8.4,Health
+702,WhatsApp,33,2023-04-17,5,Amazing app! Helps me stay connected with friends and family.,96,iPhone 14,9.252.18,France,6.44,Social
+703,TikTok,28,2024-08-31,2,The app is okay but has too many glitches.,21,iPhone 11,3.116.2,India,6.99,Entertainment
+704,Spotify,54,2024-09-11,2,"The app is okay, but it crashes often.",37,iPhone SE,4.291.16,US,0.0,Music
+705,WhatsApp,56,2023-02-19,2,Could be better. The app crashes frequently.,11,iPhone 12,9.211.11,Australia,11.23,Social
+706,Audible,23,2024-08-17,2,"It's okay, but some audiobooks won't play.",27,iPhone 11,8.12.17,Mexico,0.0,Books
+707,WhatsApp,22,2023-02-25,5,Amazing app! Helps me stay connected with friends and family.,75,iPhone 12,8.263.20,Mexico,0.0,Social
+708,Headspace,37,2022-12-15,3,"Decent, but lacks variety in sessions.",45,iPhone 12,2.162.17,Australia,0.0,Health
+709,Zoom,43,2022-12-28,4,"Works fine, but the interface could be better.",36,iPhone 13,10.167.17,US,7.95,Business
+710,Instagram,29,2023-02-10,4,Amazing app! Helps me stay connected with friends and family.,86,iPhone SE,6.126.20,UK,12.58,Social
+711,TikTok,27,2022-11-26,4,"Good app, but the ads are annoying.",66,iPhone 12,5.34.4,UK,4.49,Entertainment
+712,Candy Crush Saga,41,2023-01-19,2,"Fun, but it gets repetitive after a while.",50,iPhone X,6.77.0,UK,0.0,Games
+713,Duolingo,35,2023-04-18,5,Excellent for learning new skills!,77,iPhone 12,2.121.4,India,10.69,Education
+714,Spotify,58,2024-06-09,3,"Good, but has connection issues sometimes.",53,iPhone 11,10.126.12,UK,8.91,Music
+715,Audible,40,2023-11-28,3,"Good, but needs more features for listeners.",45,iPhone 12,4.252.2,Mexico,12.53,Books
+716,Clash of Clans,26,2023-12-22,2,Too many ads interrupting the game.,31,iPhone 11,8.16.11,Canada,9.05,Games
+717,Instagram,31,2023-06-22,1,Could be better. The app crashes frequently.,27,iPhone SE,6.287.8,India,9.4,Social
+718,WhatsApp,30,2024-09-20,1,"Good app, but too many ads.",53,iPhone SE,3.228.3,Mexico,7.32,Social
+719,Zoom,46,2023-07-05,1,"Works fine, but the interface could be better.",52,iPhone X,10.287.3,India,0.0,Business
+720,Spotify,45,2024-01-16,1,Not worth it. Limited music selection.,10,iPhone 11,5.124.17,Canada,5.03,Music
+721,TikTok,59,2023-01-21,2,The app is okay but has too many glitches.,29,iPhone 13,3.36.10,UK,5.71,Entertainment
+722,Audible,41,2023-03-26,5,Amazing app for audiobooks! Huge selection.,91,iPhone 13,6.206.2,Germany,0.0,Books
+723,Headspace,44,2024-07-04,3,"Decent, but lacks variety in sessions.",40,iPhone 12,1.245.5,Mexico,7.64,Health
+724,Spotify,52,2023-08-10,1,Not worth it. Limited music selection.,7,iPhone 14,4.213.1,US,14.89,Music
+725,WhatsApp,43,2024-06-04,2,Could be better. The app crashes frequently.,14,iPhone 12,5.230.9,Canada,9.46,Social
+726,Audible,48,2024-09-20,5,Amazing app for audiobooks! Huge selection.,70,iPhone 14,1.107.1,Australia,13.96,Books
+727,TikTok,21,2024-02-11,3,Awesome app! Best entertainment content.,70,iPhone SE,10.293.6,India,9.07,Entertainment
+728,Headspace,43,2024-07-16,5,Very helpful for meditation and mental health.,87,iPhone 13,7.88.18,France,7.42,Health
+729,WhatsApp,20,2023-10-07,3,"Good app, but too many ads.",49,iPhone 13,5.285.17,India,0.0,Social
+730,Candy Crush Saga,23,2022-12-07,1,Not worth the download. Keeps crashing.,13,iPhone 11,6.195.12,Germany,0.0,Games
+731,Duolingo,29,2023-01-11,4,"Good educational app, but can be improved.",67,iPhone X,10.12.7,Germany,0.0,Education
+732,WhatsApp,19,2023-09-18,1,Could be better. The app crashes frequently.,31,iPhone X,8.29.9,UK,13.08,Social
+733,Instagram,55,2023-03-16,2,Could be better. The app crashes frequently.,14,iPhone 12,1.177.17,Canada,6.54,Social
+734,Zoom,59,2024-02-02,2,"Works fine, but the interface could be better.",48,iPhone X,7.94.8,UK,0.0,Business
+735,Candy Crush Saga,55,2023-11-26,4,"Great game, but too many in-game purchases.",78,iPhone 11,1.192.19,Canada,0.0,Games
+736,Instagram,32,2022-12-29,1,Could be better. The app crashes frequently.,10,iPhone X,3.26.17,Canada,6.94,Social
+737,Audible,38,2023-10-07,1,"It's okay, but some audiobooks won't play.",19,iPhone X,7.280.15,France,10.05,Books
+738,Headspace,47,2022-10-22,4,"Decent, but lacks variety in sessions.",44,iPhone 14,4.165.10,France,11.52,Health
+739,Clash of Clans,23,2023-08-05,5,"Great game, but too many in-game purchases.",63,iPhone 14,10.297.5,UK,19.68,Games
+740,Headspace,59,2024-01-30,1,Not helpful at all. Content is repetitive.,0,iPhone X,4.241.9,Australia,0.0,Health
+741,Audible,46,2023-05-11,2,"It's okay, but some audiobooks won't play.",22,iPhone 11,7.259.15,Mexico,7.16,Books
+742,Headspace,35,2024-04-03,2,Not helpful at all. Content is repetitive.,13,iPhone 13,3.285.2,India,0.0,Health
+743,Candy Crush Saga,21,2023-10-26,1,Not worth the download. Keeps crashing.,10,iPhone 11,9.3.14,Australia,17.55,Games
+744,Instagram,19,2023-12-23,4,"Great app, but sometimes it lags.",73,iPhone 14,1.197.2,Canada,0.0,Social
+745,Duolingo,26,2023-04-13,5,Excellent for learning new skills!,84,iPhone 14,1.70.14,France,0.0,Education
+746,TikTok,60,2022-12-15,5,Awesome app! Best entertainment content.,72,iPhone 14,8.203.9,France,8.28,Entertainment
+747,Duolingo,36,2023-08-18,4,"Good educational app, but can be improved.",59,iPhone 14,2.172.17,France,0.0,Education
+748,Audible,55,2023-08-04,1,Terrible. Very limited selection of books.,16,iPhone X,3.9.20,Mexico,0.0,Books
+749,Duolingo,46,2024-03-13,1,"Useful, but some content is outdated.",57,iPhone X,6.160.20,Australia,14.03,Education
+750,Clash of Clans,27,2023-05-21,3,"Fun, but it gets repetitive after a while.",30,iPhone SE,4.239.17,Germany,0.0,Games
+751,Candy Crush Saga,33,2023-08-15,4,Super fun and addictive! Can't stop playing.,84,iPhone X,2.169.10,UK,0.0,Games
+752,Candy Crush Saga,37,2024-05-01,5,Super fun and addictive! Can't stop playing.,70,iPhone 11,10.145.18,Australia,0.0,Games
+753,Instagram,31,2023-03-04,5,Amazing app! Helps me stay connected with friends and family.,99,iPhone SE,5.69.7,France,0.0,Social
+754,Instagram,54,2024-05-22,2,Terrible experience. The app doesn't work properly.,9,iPhone 14,5.140.15,Mexico,0.0,Social
+755,Candy Crush Saga,58,2023-02-08,4,"Great game, but too many in-game purchases.",75,iPhone 12,6.37.7,UK,14.25,Games
+756,Zoom,40,2023-11-02,1,Worst experience. Constantly crashes during meetings.,1,iPhone 12,8.79.11,France,0.0,Business
+757,Duolingo,33,2023-12-09,4,"Good educational app, but can be improved.",59,iPhone 11,4.276.0,Canada,0.0,Education
+758,Duolingo,58,2024-09-30,3,Not engaging enough. Needs more updates.,31,iPhone 13,9.246.18,India,9.49,Education
+759,Candy Crush Saga,38,2024-04-30,3,Too many ads interrupting the game.,33,iPhone 13,9.63.6,UK,0.0,Games
+760,Duolingo,56,2023-01-16,2,Not engaging enough. Needs more updates.,28,iPhone 14,3.72.14,India,0.0,Education
+761,WhatsApp,55,2023-01-28,4,"Great app, but sometimes it lags.",75,iPhone 14,1.31.2,UK,11.66,Social
+762,Candy Crush Saga,33,2024-04-13,5,"Great game, but too many in-game purchases.",58,iPhone 14,4.15.17,France,12.23,Games
+763,Audible,51,2024-08-02,3,"Good, but needs more features for listeners.",51,iPhone 14,8.117.16,Mexico,0.0,Books
+764,Instagram,26,2023-12-27,4,Amazing app! Helps me stay connected with friends and family.,87,iPhone SE,3.228.4,US,6.7,Social
+765,Spotify,44,2024-03-04,3,"Good, but has connection issues sometimes.",44,iPhone 12,5.202.7,Canada,6.99,Music
+766,Duolingo,51,2024-03-10,4,"Good educational app, but can be improved.",52,iPhone 14,3.185.1,UK,8.69,Education
+767,TikTok,60,2024-04-28,1,The app is okay but has too many glitches.,21,iPhone X,4.175.14,Australia,0.0,Entertainment
+768,Spotify,51,2024-01-02,3,Love the app! Best place for music.,78,iPhone X,2.195.6,UK,10.74,Music
+769,Instagram,59,2023-08-17,4,Amazing app! Helps me stay connected with friends and family.,97,iPhone SE,8.145.1,France,0.0,Social
+770,Headspace,51,2024-05-19,1,Not helpful at all. Content is repetitive.,15,iPhone X,1.271.19,India,7.09,Health
+771,Instagram,33,2023-03-01,2,"Good app, but too many ads.",37,iPhone SE,7.154.13,France,8.3,Social
+772,Zoom,35,2023-12-28,1,Keeps disconnecting during calls.,25,iPhone X,6.293.12,Australia,0.0,Business
+773,Instagram,19,2023-08-10,3,"Good app, but too many ads.",54,iPhone X,9.56.19,Canada,0.0,Social
+774,TikTok,37,2023-11-28,1,Terrible! Hard to navigate and slow.,3,iPhone 12,9.140.11,US,0.0,Entertainment
+775,Duolingo,30,2023-10-31,3,Excellent for learning new skills!,99,iPhone X,3.266.0,UK,0.0,Education
+776,WhatsApp,29,2023-08-31,4,"Great app, but sometimes it lags.",70,iPhone SE,9.208.11,Canada,0.0,Social
+777,Headspace,23,2024-05-16,1,Not helpful at all. Content is repetitive.,7,iPhone X,6.280.15,France,0.0,Health
+778,Zoom,44,2024-05-07,2,Keeps disconnecting during calls.,22,iPhone 11,6.105.10,India,12.55,Business
+779,TikTok,33,2024-03-29,3,"Decent, but needs more content.",37,iPhone 11,5.168.18,UK,0.0,Entertainment
+780,Clash of Clans,59,2023-05-03,5,"Great game, but too many in-game purchases.",77,iPhone 14,1.243.3,UK,7.44,Games
+781,Candy Crush Saga,41,2023-12-01,2,"Fun, but it gets repetitive after a while.",52,iPhone X,4.94.19,UK,16.9,Games
+782,Headspace,34,2022-11-10,4,"Good, but the premium content is expensive.",53,iPhone 11,3.254.10,Germany,0.0,Health
+783,Candy Crush Saga,48,2023-02-19,1,Too many ads interrupting the game.,23,iPhone X,7.92.11,France,18.83,Games
+784,Zoom,40,2023-04-08,1,Keeps disconnecting during calls.,13,iPhone SE,2.223.8,Australia,0.0,Business
+785,Audible,32,2024-05-01,1,Terrible. Very limited selection of books.,4,iPhone 14,4.203.13,France,0.0,Books
+786,Zoom,30,2023-04-08,2,Keeps disconnecting during calls.,12,iPhone 14,10.187.6,France,9.72,Business
+787,Duolingo,56,2022-12-24,5,Excellent for learning new skills!,77,iPhone X,8.83.6,Canada,0.0,Education
+788,Headspace,46,2023-04-07,5,"Good, but the premium content is expensive.",58,iPhone 14,7.286.18,US,5.01,Health
+789,Instagram,31,2022-11-10,2,Could be better. The app crashes frequently.,27,iPhone 11,3.179.15,Australia,0.0,Social
+790,Candy Crush Saga,28,2023-11-10,2,Not worth the download. Keeps crashing.,4,iPhone 13,6.290.11,Canada,8.22,Games
+791,WhatsApp,33,2023-05-26,4,"Great app, but sometimes it lags.",61,iPhone 14,2.32.3,US,0.0,Social
+792,Zoom,56,2023-01-29,3,"Works fine, but the interface could be better.",52,iPhone 12,4.255.9,France,13.53,Business
+793,Audible,39,2023-08-17,2,"It's okay, but some audiobooks won't play.",37,iPhone 12,4.178.20,Australia,0.0,Books
+794,WhatsApp,29,2024-01-15,5,Amazing app! Helps me stay connected with friends and family.,89,iPhone 13,5.184.13,Australia,0.0,Social
+795,Zoom,19,2023-11-28,3,Perfect for remote meetings! Stable and reliable.,95,iPhone X,4.47.20,Australia,5.76,Business
+796,Duolingo,24,2023-09-17,3,"Useful, but some content is outdated.",47,iPhone 13,2.185.12,India,0.0,Education
+797,TikTok,31,2023-01-04,1,Terrible! Hard to navigate and slow.,12,iPhone 13,2.219.18,Germany,0.0,Entertainment
+798,Clash of Clans,37,2024-03-02,2,Too many ads interrupting the game.,30,iPhone 13,8.115.2,Mexico,6.8,Games
+799,WhatsApp,55,2023-11-26,5,Amazing app! Helps me stay connected with friends and family.,72,iPhone 11,5.231.3,France,0.0,Social
+800,Spotify,57,2024-02-21,4,"Good, but has connection issues sometimes.",43,iPhone 13,2.243.7,Germany,11.41,Music
+801,Duolingo,48,2024-07-20,5,Excellent for learning new skills!,95,iPhone 13,3.122.2,Germany,0.0,Education
+802,Clash of Clans,38,2024-04-06,5,"Great game, but too many in-game purchases.",55,iPhone 13,7.111.2,UK,7.26,Games
+803,Zoom,27,2024-03-29,1,Worst experience. Constantly crashes during meetings.,11,iPhone 11,7.7.1,Germany,0.0,Business
+804,Headspace,30,2023-06-20,4,"Good, but the premium content is expensive.",73,iPhone 14,5.202.9,France,12.56,Health
+805,WhatsApp,53,2023-07-14,3,"Good app, but too many ads.",41,iPhone 12,5.84.13,India,0.0,Social
+806,Zoom,39,2023-01-28,5,Perfect for remote meetings! Stable and reliable.,86,iPhone 14,1.110.6,France,0.0,Business
+807,WhatsApp,60,2023-07-17,4,"Good app, but too many ads.",59,iPhone 14,2.165.0,India,0.0,Social
+808,Duolingo,26,2024-05-27,5,Excellent for learning new skills!,99,iPhone 11,10.6.9,Germany,0.0,Education
+809,Audible,40,2024-08-07,2,"Great app, but it's a bit pricey.",74,iPhone SE,2.51.2,Germany,12.55,Books
+810,Clash of Clans,40,2022-12-02,1,Not worth the download. Keeps crashing.,3,iPhone 11,10.15.7,Australia,7.51,Games
+811,Duolingo,55,2024-02-29,1,Disappointing. Hard to follow and buggy.,20,iPhone 13,8.53.20,India,8.52,Education
+812,TikTok,54,2023-12-08,5,Awesome app! Best entertainment content.,71,iPhone X,9.229.19,Mexico,5.34,Entertainment
+813,Zoom,38,2024-09-17,5,Perfect for remote meetings! Stable and reliable.,74,iPhone 13,6.50.11,Australia,7.74,Business
+814,Spotify,59,2023-11-06,5,"Great music collection, but needs offline mode.",70,iPhone 13,6.136.20,Canada,0.0,Music
+815,Duolingo,57,2023-09-04,1,Not engaging enough. Needs more updates.,34,iPhone X,6.274.12,US,0.0,Education
+816,Duolingo,46,2024-04-19,1,Disappointing. Hard to follow and buggy.,10,iPhone X,4.31.9,Mexico,0.0,Education
+817,WhatsApp,23,2024-08-30,4,"Great app, but sometimes it lags.",61,iPhone SE,2.163.9,Mexico,0.0,Social
+818,WhatsApp,41,2024-04-02,1,Terrible experience. The app doesn't work properly.,0,iPhone X,8.75.14,UK,13.74,Social
+819,Zoom,31,2024-04-20,2,Worst experience. Constantly crashes during meetings.,2,iPhone 14,7.46.10,UK,0.0,Business
+820,Spotify,25,2023-04-30,3,"Good, but has connection issues sometimes.",42,iPhone 14,9.89.19,Canada,8.2,Music
+821,Instagram,22,2024-09-27,3,Could be better. The app crashes frequently.,24,iPhone 13,1.257.16,Mexico,14.8,Social
+822,TikTok,34,2024-02-28,3,"Decent, but needs more content.",57,iPhone X,4.261.14,US,0.0,Entertainment
+823,WhatsApp,22,2024-09-20,1,Terrible experience. The app doesn't work properly.,11,iPhone 11,5.261.10,UK,0.0,Social
+824,Headspace,31,2024-06-08,5,Very helpful for meditation and mental health.,86,iPhone 11,1.54.16,Canada,5.31,Health
+825,Spotify,34,2023-02-20,3,"The app is okay, but it crashes often.",25,iPhone 13,5.266.18,France,12.61,Music
+826,Zoom,40,2023-04-09,5,"Good app, but has minor bugs.",69,iPhone 13,3.216.20,France,0.0,Business
+827,Headspace,36,2023-07-05,5,Very helpful for meditation and mental health.,71,iPhone 14,2.185.9,Germany,14.2,Health
+828,Zoom,55,2023-12-24,3,Keeps disconnecting during calls.,30,iPhone 13,3.213.4,France,12.94,Business
+829,Zoom,38,2024-09-09,1,Worst experience. Constantly crashes during meetings.,19,iPhone 11,3.212.17,Germany,6.24,Business
+830,Duolingo,58,2022-12-29,2,"Useful, but some content is outdated.",59,iPhone X,4.30.8,Germany,13.28,Education
+831,Candy Crush Saga,37,2023-04-08,2,Not worth the download. Keeps crashing.,4,iPhone 13,10.65.3,UK,13.27,Games
+832,Clash of Clans,37,2023-04-23,1,Not worth the download. Keeps crashing.,11,iPhone 13,9.50.3,Australia,16.97,Games
+833,Instagram,43,2023-05-30,3,"Good app, but too many ads.",47,iPhone X,2.27.4,India,0.0,Social
+834,Spotify,55,2024-06-08,1,Not worth it. Limited music selection.,11,iPhone 13,2.11.6,US,14.08,Music
+835,Spotify,21,2024-04-09,5,Love the app! Best place for music.,79,iPhone 12,8.170.20,Mexico,0.0,Music
+836,WhatsApp,58,2024-08-15,5,Amazing app! Helps me stay connected with friends and family.,91,iPhone 14,7.70.18,Canada,0.0,Social
+837,TikTok,20,2022-11-19,1,The app is okay but has too many glitches.,31,iPhone X,7.171.13,US,3.02,Entertainment
+838,Zoom,22,2024-08-27,1,Worst experience. Constantly crashes during meetings.,5,iPhone SE,4.5.1,India,0.0,Business
+839,Instagram,43,2023-12-07,2,Terrible experience. The app doesn't work properly.,14,iPhone 13,2.186.1,India,0.0,Social
+840,Headspace,26,2023-09-14,4,"Good, but the premium content is expensive.",61,iPhone X,2.280.11,Australia,0.0,Health
+841,Zoom,32,2024-04-07,5,"Good app, but has minor bugs.",52,iPhone 13,9.169.5,Germany,0.0,Business
+842,Headspace,35,2023-12-04,4,"Good, but the premium content is expensive.",58,iPhone 11,8.204.17,US,13.38,Health
+843,Zoom,21,2024-03-07,3,"Works fine, but the interface could be better.",31,iPhone 11,9.139.14,Canada,0.0,Business
+844,Spotify,52,2023-03-02,1,"Good, but has connection issues sometimes.",35,iPhone SE,10.22.7,France,0.0,Music
+845,TikTok,49,2023-01-14,1,Terrible! Hard to navigate and slow.,16,iPhone SE,2.290.1,Germany,7.96,Entertainment
+846,Duolingo,50,2023-12-25,2,Not engaging enough. Needs more updates.,23,iPhone SE,10.38.15,Germany,0.0,Education
+847,Candy Crush Saga,55,2023-04-11,4,"Great game, but too many in-game purchases.",66,iPhone SE,8.177.14,Australia,12.79,Games
+848,Duolingo,43,2023-11-20,5,Excellent for learning new skills!,88,iPhone 12,2.37.3,US,0.0,Education
+849,Clash of Clans,37,2023-12-11,5,Super fun and addictive! Can't stop playing.,79,iPhone 11,7.4.8,Mexico,8.56,Games
+850,Zoom,55,2024-08-25,3,"Good app, but has minor bugs.",51,iPhone SE,3.126.16,Australia,8.03,Business
+851,Duolingo,53,2022-11-12,1,Disappointing. Hard to follow and buggy.,9,iPhone X,7.25.15,Canada,12.07,Education
+852,Clash of Clans,47,2024-07-25,3,"Fun, but it gets repetitive after a while.",51,iPhone SE,3.99.8,Mexico,0.0,Games
+853,Headspace,34,2024-02-02,2,Could be better. Some sessions don't work.,18,iPhone 11,10.269.10,Australia,0.0,Health
+854,Candy Crush Saga,54,2022-12-24,5,Super fun and addictive! Can't stop playing.,73,iPhone 12,1.20.18,France,0.0,Games
+855,WhatsApp,29,2023-04-22,2,Could be better. The app crashes frequently.,30,iPhone 11,1.232.3,Germany,0.0,Social
+856,Audible,24,2023-01-30,1,"It's okay, but some audiobooks won't play.",25,iPhone X,4.260.12,India,0.0,Books
+857,Audible,51,2023-06-12,4,Amazing app for audiobooks! Huge selection.,74,iPhone SE,9.29.18,Canada,0.0,Books
+858,TikTok,56,2023-04-08,5,Awesome app! Best entertainment content.,79,iPhone 11,7.173.17,Germany,7.91,Entertainment
+859,Duolingo,56,2024-03-03,5,Excellent for learning new skills!,77,iPhone 12,1.166.19,US,0.0,Education
+860,Candy Crush Saga,40,2024-03-22,1,Not worth the download. Keeps crashing.,16,iPhone 13,6.72.8,US,13.46,Games
+861,Zoom,53,2024-02-02,1,Worst experience. Constantly crashes during meetings.,3,iPhone 11,1.244.0,Australia,0.0,Business
+862,TikTok,32,2023-12-06,4,"Good app, but the ads are annoying.",52,iPhone 12,5.235.8,UK,0.0,Entertainment
+863,Audible,57,2024-10-07,3,"Good, but needs more features for listeners.",55,iPhone 14,3.292.20,Mexico,0.0,Books
+864,Clash of Clans,24,2024-09-18,1,Too many ads interrupting the game.,38,iPhone X,1.292.9,France,11.7,Games
+865,Duolingo,21,2023-05-30,1,Disappointing. Hard to follow and buggy.,10,iPhone 12,10.191.19,US,0.0,Education
+866,Clash of Clans,18,2023-03-01,5,Super fun and addictive! Can't stop playing.,85,iPhone 13,6.111.4,Mexico,5.84,Games
+867,WhatsApp,31,2023-08-04,5,Amazing app! Helps me stay connected with friends and family.,71,iPhone 14,1.130.1,Canada,11.6,Social
+868,Duolingo,34,2023-02-19,5,Excellent for learning new skills!,100,iPhone 13,5.225.6,Mexico,0.0,Education
+869,Duolingo,20,2024-04-11,1,Disappointing. Hard to follow and buggy.,18,iPhone 12,3.260.13,Germany,0.0,Education
+870,Instagram,57,2023-04-04,2,Could be better. The app crashes frequently.,31,iPhone 14,6.32.0,Australia,0.0,Social
+871,WhatsApp,38,2024-07-08,4,"Great app, but sometimes it lags.",63,iPhone 12,4.229.5,Australia,9.39,Social
+872,Zoom,43,2023-11-26,1,Worst experience. Constantly crashes during meetings.,14,iPhone SE,2.1.8,Germany,6.08,Business
+873,Zoom,40,2023-11-13,1,Keeps disconnecting during calls.,31,iPhone SE,7.49.14,Mexico,9.77,Business
+874,TikTok,48,2024-01-16,4,"Good app, but the ads are annoying.",71,iPhone SE,7.7.6,India,4.2,Entertainment
+875,Duolingo,30,2024-09-23,3,"Useful, but some content is outdated.",31,iPhone 14,10.176.20,Mexico,0.0,Education
+876,Headspace,56,2022-10-19,4,"Good, but the premium content is expensive.",76,iPhone SE,8.153.8,Australia,14.54,Health
+877,Zoom,41,2023-08-30,1,Worst experience. Constantly crashes during meetings.,8,iPhone 11,9.264.11,Australia,14.42,Business
+878,Audible,59,2023-01-23,2,"It's okay, but some audiobooks won't play.",13,iPhone 13,10.280.10,India,0.0,Books
+879,Clash of Clans,47,2023-08-13,2,Too many ads interrupting the game.,40,iPhone 11,2.83.9,UK,0.0,Games
+880,TikTok,40,2024-07-15,5,Awesome app! Best entertainment content.,79,iPhone 14,1.264.19,France,0.0,Entertainment
+881,Duolingo,54,2024-03-15,3,"Useful, but some content is outdated.",30,iPhone 13,9.145.17,US,10.65,Education
+882,Instagram,23,2023-10-14,5,Amazing app! Helps me stay connected with friends and family.,82,iPhone 11,2.246.10,UK,9.68,Social
+883,Clash of Clans,26,2022-12-29,3,"Fun, but it gets repetitive after a while.",44,iPhone 12,4.254.11,US,0.0,Games
+884,Candy Crush Saga,29,2023-04-27,1,Not worth the download. Keeps crashing.,9,iPhone X,7.8.7,Australia,16.77,Games
+885,Candy Crush Saga,32,2024-08-01,4,Super fun and addictive! Can't stop playing.,96,iPhone SE,9.277.15,India,17.14,Games
+886,Candy Crush Saga,58,2024-07-08,4,"Great game, but too many in-game purchases.",79,iPhone X,8.4.6,Mexico,9.12,Games
+887,Spotify,49,2023-12-31,3,"Good, but has connection issues sometimes.",49,iPhone 12,2.142.13,Canada,7.72,Music
+888,Audible,56,2024-05-13,5,Amazing app for audiobooks! Huge selection.,77,iPhone 14,8.83.10,Canada,0.0,Books
+889,Duolingo,59,2023-09-01,4,"Useful, but some content is outdated.",51,iPhone 14,1.283.17,Australia,6.67,Education
+890,Zoom,31,2024-06-19,1,Keeps disconnecting during calls.,38,iPhone X,9.165.6,US,7.9,Business
+891,Candy Crush Saga,37,2023-08-18,4,"Fun, but it gets repetitive after a while.",42,iPhone 13,9.79.9,France,17.74,Games
+892,Spotify,57,2024-08-02,4,"Great music collection, but needs offline mode.",79,iPhone 11,5.96.10,Mexico,0.0,Music
+893,Instagram,22,2023-11-30,2,Could be better. The app crashes frequently.,12,iPhone 12,10.295.16,US,7.75,Social
+894,Headspace,27,2024-08-18,1,Not helpful at all. Content is repetitive.,15,iPhone 14,6.225.12,Germany,10.72,Health
+895,WhatsApp,24,2024-03-14,1,"Good app, but too many ads.",45,iPhone SE,8.271.6,Canada,0.0,Social
+896,Audible,56,2023-03-30,5,Amazing app for audiobooks! Huge selection.,87,iPhone 11,2.55.13,France,7.04,Books
+897,Candy Crush Saga,41,2022-12-12,4,"Fun, but it gets repetitive after a while.",47,iPhone 13,8.49.4,US,0.0,Games
+898,Clash of Clans,46,2024-05-09,5,Super fun and addictive! Can't stop playing.,79,iPhone 11,4.137.7,India,18.72,Games
+899,Zoom,22,2024-05-31,2,"Good app, but has minor bugs.",51,iPhone SE,6.97.12,UK,5.54,Business
+900,Spotify,22,2023-10-10,2,Not worth it. Limited music selection.,20,iPhone 14,1.10.3,France,0.0,Music
+901,Audible,49,2023-12-07,3,Amazing app for audiobooks! Huge selection.,81,iPhone X,4.33.18,Germany,14.86,Books
+902,Spotify,48,2023-06-21,3,"Good, but has connection issues sometimes.",39,iPhone X,9.29.13,Germany,0.0,Music
+903,Candy Crush Saga,51,2023-11-05,5,"Great game, but too many in-game purchases.",66,iPhone 13,1.149.12,Australia,6.28,Games
+904,Candy Crush Saga,33,2023-03-25,3,"Fun, but it gets repetitive after a while.",32,iPhone 11,7.20.7,UK,16.04,Games
+905,Clash of Clans,24,2024-08-10,3,Too many ads interrupting the game.,32,iPhone 14,10.276.15,UK,0.0,Games
+906,Spotify,19,2022-10-29,2,"The app is okay, but it crashes often.",16,iPhone X,6.159.12,France,8.41,Music
+907,Duolingo,37,2023-06-03,5,"Good educational app, but can be improved.",74,iPhone 13,9.139.17,UK,12.16,Education
+908,Instagram,33,2024-05-03,1,Terrible experience. The app doesn't work properly.,17,iPhone X,1.161.10,Australia,0.0,Social
+909,Audible,35,2023-04-07,2,"Great app, but it's a bit pricey.",56,iPhone SE,10.140.2,Australia,12.97,Books
+910,Spotify,52,2024-09-07,5,Love the app! Best place for music.,86,iPhone SE,5.43.2,UK,0.0,Music
+911,Zoom,28,2023-06-13,1,Worst experience. Constantly crashes during meetings.,12,iPhone 13,8.61.17,US,0.0,Business
+912,Clash of Clans,31,2024-02-03,3,"Fun, but it gets repetitive after a while.",47,iPhone 13,5.126.5,Australia,0.0,Games
+913,Clash of Clans,53,2023-02-12,5,Super fun and addictive! Can't stop playing.,93,iPhone 12,3.87.9,US,0.0,Games
+914,Headspace,39,2023-01-26,3,"Decent, but lacks variety in sessions.",43,iPhone 13,7.17.11,US,0.0,Health
+915,Duolingo,24,2023-01-27,4,"Good educational app, but can be improved.",55,iPhone SE,2.4.14,US,0.0,Education
+916,Candy Crush Saga,36,2024-08-12,1,Not worth the download. Keeps crashing.,11,iPhone X,9.5.16,Mexico,5.5,Games
+917,Headspace,25,2023-09-28,4,"Good, but the premium content is expensive.",66,iPhone 11,9.127.10,France,11.36,Health
+918,Spotify,23,2023-02-08,5,"Great music collection, but needs offline mode.",53,iPhone 14,1.77.20,Australia,8.77,Music
+919,Audible,33,2022-11-06,2,"It's okay, but some audiobooks won't play.",27,iPhone 14,3.252.1,Australia,11.09,Books
+920,WhatsApp,32,2024-04-03,1,Terrible experience. The app doesn't work properly.,11,iPhone 11,8.295.7,Australia,0.0,Social
+921,Headspace,58,2024-05-19,5,Very helpful for meditation and mental health.,91,iPhone 12,4.113.11,France,7.14,Health
+922,Headspace,39,2022-10-22,3,"Decent, but lacks variety in sessions.",41,iPhone 12,8.162.1,US,0.0,Health
+923,Instagram,36,2024-08-10,4,"Great app, but sometimes it lags.",80,iPhone 11,9.289.6,US,0.0,Social
+924,WhatsApp,52,2023-11-13,1,Could be better. The app crashes frequently.,15,iPhone X,3.25.0,US,12.45,Social
+925,Spotify,46,2023-10-15,3,"Good, but has connection issues sometimes.",60,iPhone 11,4.267.1,India,0.0,Music
+926,WhatsApp,38,2023-01-02,3,Could be better. The app crashes frequently.,38,iPhone 14,3.213.1,India,6.16,Social
+927,TikTok,45,2023-05-23,3,The app is okay but has too many glitches.,38,iPhone 13,9.193.2,Germany,0.0,Entertainment
+928,Clash of Clans,33,2024-02-29,4,"Fun, but it gets repetitive after a while.",48,iPhone 13,3.0.13,France,17.23,Games
+929,Duolingo,37,2023-10-16,4,"Good educational app, but can be improved.",72,iPhone 11,6.36.2,UK,0.0,Education
+930,Spotify,48,2024-09-07,1,Not worth it. Limited music selection.,6,iPhone 11,6.60.20,UK,0.0,Music
+931,Zoom,54,2023-09-07,1,Keeps disconnecting during calls.,11,iPhone X,1.235.5,Canada,11.55,Business
+932,Headspace,28,2022-11-27,5,Very helpful for meditation and mental health.,73,iPhone 14,4.206.16,Germany,8.97,Health
+933,Zoom,46,2023-03-19,1,Worst experience. Constantly crashes during meetings.,2,iPhone 12,5.76.7,US,0.0,Business
+934,Clash of Clans,48,2023-03-24,5,Super fun and addictive! Can't stop playing.,84,iPhone 12,6.272.13,Canada,7.78,Games
+935,Spotify,20,2023-06-14,3,"Good, but has connection issues sometimes.",57,iPhone 11,3.118.9,Germany,11.63,Music
+936,WhatsApp,50,2024-03-16,1,Could be better. The app crashes frequently.,20,iPhone SE,9.201.3,Canada,9.04,Social
+937,Instagram,46,2023-03-16,1,Terrible experience. The app doesn't work properly.,13,iPhone SE,3.292.5,India,10.42,Social
+938,Duolingo,23,2024-08-11,5,Excellent for learning new skills!,97,iPhone 12,9.96.6,US,14.5,Education
+939,Candy Crush Saga,45,2023-05-01,2,Not worth the download. Keeps crashing.,19,iPhone 13,4.225.16,Australia,10.96,Games
+940,Spotify,25,2023-01-28,5,Love the app! Best place for music.,75,iPhone 11,2.131.1,Canada,14.41,Music
+941,Spotify,53,2023-09-03,5,Love the app! Best place for music.,72,iPhone SE,8.112.11,UK,0.0,Music
+942,Clash of Clans,34,2024-06-07,4,"Great game, but too many in-game purchases.",63,iPhone SE,2.46.19,Mexico,0.0,Games
+943,Zoom,35,2023-10-28,3,"Good app, but has minor bugs.",71,iPhone SE,10.166.14,US,0.0,Business
+944,Spotify,32,2023-06-13,3,"The app is okay, but it crashes often.",20,iPhone 13,5.237.11,Australia,11.41,Music
+945,WhatsApp,46,2024-02-07,4,"Great app, but sometimes it lags.",57,iPhone SE,9.118.19,Mexico,12.65,Social
+946,TikTok,29,2022-12-20,5,Awesome app! Best entertainment content.,82,iPhone 14,6.65.5,Canada,8.35,Entertainment
+947,TikTok,24,2023-04-12,4,"Good app, but the ads are annoying.",69,iPhone 11,4.146.17,Germany,0.0,Entertainment
+948,Zoom,60,2023-11-11,1,Worst experience. Constantly crashes during meetings.,3,iPhone SE,8.1.16,Germany,0.0,Business
+949,WhatsApp,24,2024-02-09,3,Could be better. The app crashes frequently.,19,iPhone 14,4.39.8,Mexico,0.0,Social
+950,Clash of Clans,48,2024-04-23,2,Too many ads interrupting the game.,21,iPhone 13,7.232.13,Mexico,0.0,Games
+951,Candy Crush Saga,27,2023-08-20,4,Super fun and addictive! Can't stop playing.,76,iPhone X,6.244.14,US,19.21,Games
+952,Spotify,58,2022-11-11,4,"Good, but has connection issues sometimes.",37,iPhone 13,1.60.19,Germany,14.97,Music
+953,Spotify,39,2024-04-10,2,"The app is okay, but it crashes often.",18,iPhone X,2.220.15,Germany,0.0,Music
+954,Duolingo,32,2023-09-10,1,Disappointing. Hard to follow and buggy.,2,iPhone 12,6.254.17,Canada,10.81,Education
+955,Headspace,43,2023-01-18,3,"Decent, but lacks variety in sessions.",47,iPhone 13,3.176.18,US,0.0,Health
+956,TikTok,52,2023-08-02,2,"Good app, but the ads are annoying.",69,iPhone SE,7.62.7,Australia,0.0,Entertainment
+957,Duolingo,29,2023-03-17,5,Excellent for learning new skills!,71,iPhone 12,7.236.11,Germany,0.0,Education
+958,Instagram,44,2024-08-13,4,"Good app, but too many ads.",31,iPhone 13,10.274.4,Mexico,0.0,Social
+959,Zoom,35,2024-02-28,2,Worst experience. Constantly crashes during meetings.,1,iPhone 14,6.279.20,Canada,13.81,Business
+960,Duolingo,57,2023-07-01,3,"Useful, but some content is outdated.",42,iPhone 11,4.298.10,France,0.0,Education
+961,WhatsApp,58,2024-05-29,1,Terrible experience. The app doesn't work properly.,16,iPhone 11,9.100.13,Australia,11.27,Social
+962,Spotify,42,2023-05-15,4,Love the app! Best place for music.,85,iPhone X,9.146.20,Canada,0.0,Music
+963,Audible,39,2023-10-28,4,"Great app, but it's a bit pricey.",51,iPhone 12,1.259.11,Canada,6.72,Books
+964,TikTok,50,2022-11-06,2,The app is okay but has too many glitches.,18,iPhone SE,4.276.1,India,7.5,Entertainment
+965,Audible,38,2024-04-17,1,"Good, but needs more features for listeners.",48,iPhone SE,6.66.8,UK,0.0,Books
+966,Headspace,58,2024-03-22,1,Not helpful at all. Content is repetitive.,15,iPhone 14,1.183.15,US,11.38,Health
+967,Instagram,46,2024-08-10,1,"Good app, but too many ads.",35,iPhone SE,7.295.8,Mexico,0.0,Social
+968,TikTok,35,2024-03-07,3,"Decent, but needs more content.",43,iPhone 11,8.77.13,France,9.51,Entertainment
+969,Audible,56,2023-09-14,5,Amazing app for audiobooks! Huge selection.,98,iPhone 14,8.59.15,India,0.0,Books
+970,Candy Crush Saga,45,2024-02-08,1,Not worth the download. Keeps crashing.,6,iPhone SE,10.43.7,Canada,7.2,Games
+971,Zoom,39,2024-08-13,1,Worst experience. Constantly crashes during meetings.,5,iPhone SE,8.209.4,India,0.0,Business
+972,Instagram,60,2023-04-04,4,"Great app, but sometimes it lags.",70,iPhone X,1.166.3,Germany,6.07,Social
+973,Headspace,45,2023-12-02,4,"Good, but the premium content is expensive.",51,iPhone 12,6.174.8,UK,0.0,Health
+974,Duolingo,45,2024-03-20,1,Disappointing. Hard to follow and buggy.,5,iPhone 12,1.24.15,US,14.22,Education
+975,TikTok,49,2023-05-30,5,Awesome app! Best entertainment content.,70,iPhone 14,6.214.20,Canada,10.0,Entertainment
+976,Clash of Clans,34,2024-09-03,1,Too many ads interrupting the game.,12,iPhone SE,5.79.5,Germany,10.5,Games
+977,Duolingo,29,2023-04-02,4,"Good educational app, but can be improved.",59,iPhone SE,10.80.8,Canada,13.18,Education
+978,TikTok,55,2023-03-25,1,Terrible! Hard to navigate and slow.,4,iPhone 11,9.43.12,India,4.79,Entertainment
+979,TikTok,42,2024-09-22,5,Awesome app! Best entertainment content.,76,iPhone 13,7.144.7,India,9.67,Entertainment
+980,Audible,25,2023-03-23,3,"Good, but needs more features for listeners.",37,iPhone 11,7.198.18,Australia,6.22,Books
+981,WhatsApp,50,2023-07-28,2,"Good app, but too many ads.",40,iPhone X,2.205.19,India,0.0,Social
+982,Duolingo,20,2023-04-14,5,Excellent for learning new skills!,77,iPhone 12,8.140.2,Australia,0.0,Education
+983,Duolingo,38,2024-10-01,1,Disappointing. Hard to follow and buggy.,0,iPhone 13,7.50.13,Australia,0.0,Education
+984,Clash of Clans,41,2024-03-31,1,Not worth the download. Keeps crashing.,9,iPhone X,9.186.6,France,19.78,Games
+985,Audible,39,2024-01-27,1,"It's okay, but some audiobooks won't play.",17,iPhone SE,8.90.8,Canada,5.03,Books
+986,Zoom,51,2023-01-21,1,Worst experience. Constantly crashes during meetings.,15,iPhone 14,1.223.2,France,6.96,Business
+987,Candy Crush Saga,31,2023-04-29,5,Super fun and addictive! Can't stop playing.,70,iPhone 12,2.66.12,Germany,7.85,Games
+988,Instagram,18,2023-12-10,5,Amazing app! Helps me stay connected with friends and family.,86,iPhone 13,10.296.6,Germany,0.0,Social
+989,Candy Crush Saga,18,2023-05-15,2,Too many ads interrupting the game.,22,iPhone X,6.248.6,US,5.8,Games
+990,WhatsApp,28,2024-08-03,4,"Great app, but sometimes it lags.",72,iPhone 13,4.112.19,US,0.0,Social
+991,Candy Crush Saga,31,2024-03-25,1,Not worth the download. Keeps crashing.,7,iPhone 11,2.125.4,Australia,0.0,Games
+992,Clash of Clans,28,2022-11-26,1,Not worth the download. Keeps crashing.,13,iPhone 11,9.46.20,Australia,13.22,Games
+993,Audible,27,2023-06-27,1,Terrible. Very limited selection of books.,6,iPhone 14,8.249.2,US,0.0,Books
+994,Audible,29,2023-09-18,1,"Good, but needs more features for listeners.",36,iPhone X,10.41.0,US,13.66,Books
+995,Headspace,54,2022-11-02,1,Not helpful at all. Content is repetitive.,16,iPhone X,1.177.15,France,0.0,Health
+996,Headspace,30,2023-11-15,3,"Good, but the premium content is expensive.",65,iPhone SE,6.284.11,US,0.0,Health
+997,Duolingo,19,2024-09-27,1,Disappointing. Hard to follow and buggy.,4,iPhone SE,6.293.8,Canada,7.25,Education
+998,Duolingo,38,2023-06-07,5,Excellent for learning new skills!,85,iPhone 11,10.277.15,Mexico,13.33,Education
+999,Instagram,52,2024-03-04,4,"Great app, but sometimes it lags.",55,iPhone 13,3.52.20,US,6.37,Social
+1000,Audible,25,2024-02-20,2,Terrible. Very limited selection of books.,7,iPhone 13,9.150.8,India,8.32,Books
